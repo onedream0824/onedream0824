@@ -1,5 +1,3 @@
-![Banner](https://raw.githubusercontent.com/onedream0824/onedream0824/main/banner.svg)
-
 # Hi, Welcome to My GitHub Profile 👋  
 **Full Stack Developer | AI Voice Agent | AI Sales Agent**  
 Transforming ideas into impactful web and mobile solutions using cutting-edge AI and development practices.
