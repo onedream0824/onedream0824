@@ -1,69 +1,50 @@
-# Hi, Welcome to visit my github profile 👋
+![Banner](https://raw.githubusercontent.com/onedream0824/onedream0824/main/banner.svg)
 
-Full Stack | AI Voice Agent | AI Sales Agent  | Next.js | Flutter
+# Hi, Welcome to My GitHub Profile 👋  
+**Full Stack Developer | AI Voice Agent | AI Sales Agent**  
 Transforming ideas into impactful web and mobile solutions using cutting-edge AI and development practices.
 
 ---
 
 ## 🛠 Skill Sets
 
-### Front-end Technologies
-- React, Next.js, Vue.js
-- JavaScript, TypeScript
-- Bubble.io, HTML/CSS
-- Bootstrap, Material-UI, TailwindCSS
+### Front-end Technologies  
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" alt="React" />  
+<img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />  
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white" alt="Vue.js" />  
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />  
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />  
 
-### Back-end Technologies
-- Node.js, Django, FastAPI
-- Microservices architectures
-- Firebase
+### Back-end Technologies  
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />  
+<img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" alt="Django" />  
+<img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />  
 
-### Database Management
-- Firebase, Supabase
-- PostgreSQL, MongoDB
-
-### Mobile App Development
-- Flutter, Flutterflow
-- React Native
-
-### Cloud Platforms
-- Amazon Web Services (AWS)
-- Azure OpenAI Service
-- Cloud infrastructure
-
-### AI & Machine Learning
-- Generative AI, AI Chatbot Development
-- AI Sales Agent Development, AI Voice Agent Development
-- AI Audio Generation, OpenAI API, Whisper API
-- DeepSeek, OpenAI, ChatGPT
-
-### Communication APIs
-- Twilio API, Vapi, Vonage API
-- RingCentral API, Pilvo API, Retell API
-
-### Authentication and Security
-- OIDC, OAuth2, SAML
-- Auth0, Okta, Microsoft Azure AD
-
-### E-commerce and SaaS
-- Shopify, Custom SaaS solutions
+### AI & Machine Learning  
+<img src="https://img.shields.io/badge/-OpenAI-4CAF50?logo=openai&logoColor=white" alt="OpenAI" />  
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" />  
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />  
 
 ---
 
 ## 🚀 Projects
 
 ### Recent Projects
-- **AI-Powered Chatbot Platform**: Developed a scalable chatbot solution using OpenAI API and FastAPI.  
-- **E-commerce MVP**: Built a custom Shopify integration for a startup, enabling seamless product management.  
-- **Voice Agent for Customer Support**: Designed and implemented an AI voice agent using Whisper API and Twilio.
+
+| Project Name                  | Description                                                                 | Link                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|
+| **AI-Powered Chatbot Platform** | Scalable chatbot solution using OpenAI API and FastAPI                     | [🔗](https://wordlift.io/)                                |
+| **E-commerce MVP**             | Custom Shopify integration for seamless product management                 | [🔗](https://frontlevels.com/)                                  |
+| **Healthcare Platform** | HealthCare Platform built using Next.js                               | [🔗](https://healthcomplyai.com/)                                  |
 
 ### Contributions
-- Open-source contributions to My AI Front Desk ([Link](https://www.myaifrontdesk.com/)).
-- Open-source contributions to Sphinx Mind ([Link](https://www.sphinxmind.com/)).
-- Open-source contributions to Joker Relay ([Link](https://chromewebstore.google.com/detail/joker-relay/fgefbieclhkijgdjoaicmgnholpcegml?hl=en/)).
-- Open-source contributions to Nutribox ([Link](https://play.google.com/store/apps/details?id=com.serendipity.mynutribox&hl=en&pli=1)).
-- Open-source contributions to AllStarsNews AI ([Link](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.allstarsnewsai.app.app_allstarsnewsai)).
-- Open-source contributions to Health ComplyAI ([Link](https://healthcomplyai.com/)).
+
+- Open-source contributions to **My AI Front Desk**: [🔗](https://www.myaifrontdesk.com/)  
+- Open-source contributions to **Sphinx Mind**: [🔗](https://www.sphinxmind.com/)  
+- Open-source contributions to **Joker Relay**: [🔗](https://chromewebstore.google.com/detail/joker-relay/fgefbieclhkijgdjoaicmgnholpcegml?hl=en/)  
+- Open-source contributions to **Nutribox**: [🔗](https://play.google.com/store/apps/details?id=com.serendipity.mynutribox&hl=en&pli=1)  
+- Open-source contributions to **AllStarsNews AI**: [🔗](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.allstarsnewsai.app.app_allstarsnewsai)  
+- Open-source contributions to **Health ComplyAI**: [🔗](https://healthcomplyai.com/)  
 
 ---
 
@@ -75,16 +56,19 @@ I’m an innovative Full Stack Developer specializing in crafting exceptional we
 
 ## 📫 How to Reach Me
 
-- Email: [onedream082498@gmail.com](mailto:onedream082498@gmail.com)
-- Upwork: [upwork.com/freelancers/~01aabca07094ab1971](https://www.upwork.com/freelancers/~01aabca07094ab1971)
+- 📧 Email: [onedream082498@gmail.com](mailto:onedream082498@gmail.com)  
+- 🌐 Upwork: [upwork.com/freelancers/~01aabca07094ab1971](https://www.upwork.com/freelancers/~01aabca07094ab1971)  
 
 ---
 
 ## ⚡ Fun Fact
 
-I love exploring the intersection of AI and creativity, and I recently built an AI-generated art project using Stable Diffusion!
+I love exploring the intersection of AI and creativity 🤖🎨, and I recently built an AI-generated art project using Stable Diffusion! Check it out: [🔗](https://your-art-project-link.com).
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=onedream0824&color=blue)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onedream0824&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=onedream0824&color=blue)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onedream0824&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onedream0824&layout=compact&theme=radical)  
