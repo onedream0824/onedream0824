@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name] 👋
+# Hi, Welcome to visit my github profile 👋
 
-AI Full Stack Developer | Voice Agent | Sales Agent  
+Full Stack | AI Voice Agent | AI Sales Agent  | Next.js | Flutter
 Transforming ideas into impactful web and mobile solutions using cutting-edge AI and development practices.
 
 ---
@@ -58,8 +58,12 @@ Transforming ideas into impactful web and mobile solutions using cutting-edge AI
 - **Voice Agent for Customer Support**: Designed and implemented an AI voice agent using Whisper API and Twilio.
 
 ### Contributions
-- Open-source contributions to [Project Name] ([Link](https://github.com/your-repo)).
-- Collaborated with [Startup/Company Name] to develop [Feature/Product].
+- Open-source contributions to My AI Front Desk ([Link](https://www.myaifrontdesk.com/)).
+- Open-source contributions to Sphinx Mind ([Link](https://www.sphinxmind.com/)).
+- Open-source contributions to Joker Relay ([Link](https://chromewebstore.google.com/detail/joker-relay/fgefbieclhkijgdjoaicmgnholpcegml?hl=en/)).
+- Open-source contributions to Nutribox ([Link](https://play.google.com/store/apps/details?id=com.serendipity.mynutribox&hl=en&pli=1)).
+- Open-source contributions to AllStarsNews AI ([Link](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.allstarsnewsai.app.app_allstarsnewsai)).
+- Open-source contributions to Health ComplyAI ([Link](https://healthcomplyai.com/)).
 
 ---
 
@@ -71,7 +75,8 @@ I’m an innovative Full Stack Developer specializing in crafting exceptional we
 
 ## 📫 How to Reach Me
 
-- Email: [onedream082498@gmail.com](mailto:onedream082498@gmail.com)  
+- Email: [onedream082498@gmail.com](mailto:onedream082498@gmail.com)
+- Upwork: [upwork.com/freelancers/~01aabca07094ab1971](https://www.upwork.com/freelancers/~01aabca07094ab1971)
 
 ---
 
