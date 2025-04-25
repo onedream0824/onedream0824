@@ -197,7 +197,8 @@ I’m an innovative Full Stack Developer specializing in crafting exceptional we
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [onedream082498@gmail.com](mailto:onedream082498@gmail.com)  
+- 📧 Email: [onedream082498@gmail.com](mailto:onedream082498@gmail.com)
+- 📞 Telegram: [+1 407 795 2625](tel:+14077952625)
 
 ---
 
