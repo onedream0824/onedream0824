@@ -198,7 +198,6 @@ I’m an innovative Full Stack Developer specializing in crafting exceptional we
 ## 📫 How to Reach Me
 
 - 📧 Email: [onedream082498@gmail.com](mailto:onedream082498@gmail.com)  
-- 🌐 Upwork: [upwork.com/freelancers/~01036de8ee7e8fda9c?viewMode=1](https://www.upwork.com/freelancers/~01036de8ee7e8fda9c?viewMode=1)  
 
 ---
 
