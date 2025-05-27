@@ -53,7 +53,7 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="flex-shrink-0 flex items-center" onClick={closeMenu}>
-              <span className="text-2xl font-bold text-indigo-600 dark:text-indigo-400">Allen Davis</span>
+              <span className="text-2xl font-bold text-indigo-600 dark:text-indigo-400">Lê Văn Hùng</span>
             </Link>
           </div>
           

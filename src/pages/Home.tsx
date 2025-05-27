@@ -16,7 +16,7 @@ const Home: React.FC = () => {
             transition={{ duration: 0.5 }}
           >
             <h1 className="text-4xl sm:text-5xl font-bold mb-6 text-gray-900 dark:text-white">
-              <span className="block">Hi, I'm Allen Davis</span>
+              <span className="block">Hi, I'm Lê Văn Hùng</span>
               <span className="text-indigo-600 dark:text-indigo-400 block mt-2">
                 <TypeAnimation
                   sequence={[
