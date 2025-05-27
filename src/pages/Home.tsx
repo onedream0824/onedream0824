@@ -2,7 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { TypeAnimation } from 'react-type-animation';
 import { motion } from 'framer-motion';
-import { ArrowRight, Code, Cpu, Database, Layers } from 'lucide-react';
+import { ArrowRight, Code, Cpu, Layers } from 'lucide-react';
+import avatarImage from '../../public/images/avatar.png'; // Adjust this path to your actual avatar image location
 
 const Home: React.FC = () => {
   return (
@@ -55,42 +56,16 @@ const Home: React.FC = () => {
             initial={{ opacity: 0, scale: 0.9 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.5, delay: 0.2 }}
-            className="hidden lg:block"
+            className="hidden lg:flex justify-center"
           >
             <div className="relative">
-              <div className="absolute -inset-0.5 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-lg blur opacity-75"></div>
-              <div className="relative bg-white dark:bg-gray-800 p-6 rounded-lg shadow-xl">
-                <div className="grid grid-cols-2 gap-4">
-                  <div className="bg-indigo-50 dark:bg-gray-700 p-4 rounded-lg">
-                    <Code className="text-indigo-600 dark:text-indigo-400 mb-2" size={28} />
-                    <h3 className="font-bold mb-1">Frontend</h3>
-                    <p className="text-sm text-gray-600 dark:text-gray-300">React, Vue, Next.js, Flutter</p>
-                  </div>
-                  <div className="bg-indigo-50 dark:bg-gray-700 p-4 rounded-lg">
-                    <Database className="text-indigo-600 dark:text-indigo-400 mb-2" size={28} />
-                    <h3 className="font-bold mb-1">Backend</h3>
-                    <p className="text-sm text-gray-600 dark:text-gray-300">Node.js, Python, PHP</p>
-                  </div>
-                  <div className="bg-indigo-50 dark:bg-gray-700 p-4 rounded-lg">
-                    <Cpu className="text-indigo-600 dark:text-indigo-400 mb-2" size={28} />
-                    <h3 className="font-bold mb-1">AI</h3>
-                    <p className="text-sm text-gray-600 dark:text-gray-300">ML, NLP, Computer Vision</p>
-                  </div>
-                  <div className="bg-indigo-50 dark:bg-gray-700 p-4 rounded-lg">
-                    <Layers className="text-indigo-600 dark:text-indigo-400 mb-2" size={28} />
-                    <h3 className="font-bold mb-1">Mobile</h3>
-                    <p className="text-sm text-gray-600 dark:text-gray-300">Flutter, React Native</p>
-                  </div>
-                </div>
-                <div className="mt-4 bg-gray-50 dark:bg-gray-700 p-4 rounded-lg">
-                  <div className="flex justify-between mb-2">
-                    <span className="text-sm font-medium">Years of Experience</span>
-                    <span className="text-sm font-bold">9+</span>
-                  </div>
-                  <div className="w-full bg-gray-200 dark:bg-gray-600 rounded-full h-2.5">
-                    <div className="bg-indigo-600 dark:bg-indigo-400 h-2.5 rounded-full" style={{ width: '90%' }}></div>
-                  </div>
-                </div>
+              <div className="absolute -inset-2 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-full blur opacity-75"></div>
+              <div className="relative">
+                <img 
+                  src={avatarImage} 
+                  alt="Lê Văn Hùng" 
+                  className="w-64 h-64 rounded-full object-cover border-4 border-white dark:border-gray-800 shadow-lg"
+                />
               </div>
             </div>
           </motion.div>
