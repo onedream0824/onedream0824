@@ -209,12 +209,4 @@ I specialize in:
 
 ---
 
-## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=thachanhtung&color=blue)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thachanhtung&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thachanhtung&layout=compact&theme=radical)  
-
----
-
 *Let's build something amazing together! 🚀*
