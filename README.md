@@ -1,87 +1,5 @@
-<!-- Animated Falling Snow Effect - Centered Distribution -->
-<div align="center" style="margin-bottom: 20px; height: 150px; overflow: hidden; position: relative;">
-  <svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg" style="position: absolute; top: 0; left: 0; right: 0; margin: 0 auto;">
-    <!-- Layer 1: Fast falling snowflakes (30 snowflakes) - Centered distribution (20%-80%) -->
-    <text x="20%" y="-10" fill="#00D9FF" font-size="14" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.5s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.5s" repeatCount="indefinite" />❄</text>
-    <text x="22%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3s" repeatCount="indefinite" />❅</text>
-    <text x="24%" y="-10" fill="#9D50FF" font-size="16" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.8s" repeatCount="indefinite" />❆</text>
-    <text x="26%" y="-10" fill="#00D9FF" font-size="14" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3.2s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3.2s" repeatCount="indefinite" />❄</text>
-    <text x="28%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.7s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.7s" repeatCount="indefinite" />❅</text>
-    <text x="30%" y="-10" fill="#9D50FF" font-size="16" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3s" repeatCount="indefinite" />❆</text>
-    <text x="32%" y="-10" fill="#00D9FF" font-size="14" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.9s" repeatCount="indefinite" />❄</text>
-    <text x="34%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3.1s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3.1s" repeatCount="indefinite" />❅</text>
-    <text x="36%" y="-10" fill="#9D50FF" font-size="16" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.6s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.6s" repeatCount="indefinite" />❆</text>
-    <text x="38%" y="-10" fill="#00D9FF" font-size="14" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3s" repeatCount="indefinite" />❄</text>
-    <text x="40%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.8s" repeatCount="indefinite" />❅</text>
-    <text x="42%" y="-10" fill="#9D50FF" font-size="16" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3.2s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3.2s" repeatCount="indefinite" />❆</text>
-    <text x="44%" y="-10" fill="#00D9FF" font-size="14" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.7s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.7s" repeatCount="indefinite" />❄</text>
-    <text x="46%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3s" repeatCount="indefinite" />❅</text>
-    <text x="48%" y="-10" fill="#9D50FF" font-size="16" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.9s" repeatCount="indefinite" />❆</text>
-    <text x="50%" y="-10" fill="#00D9FF" font-size="14" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3.1s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3.1s" repeatCount="indefinite" />❄</text>
-    <text x="52%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.6s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.6s" repeatCount="indefinite" />❅</text>
-    <text x="54%" y="-10" fill="#9D50FF" font-size="16" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3s" repeatCount="indefinite" />❆</text>
-    <text x="56%" y="-10" fill="#00D9FF" font-size="14" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.8s" repeatCount="indefinite" />❄</text>
-    <text x="58%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3.2s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3.2s" repeatCount="indefinite" />❅</text>
-    <text x="60%" y="-10" fill="#9D50FF" font-size="16" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.7s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.7s" repeatCount="indefinite" />❆</text>
-    <text x="62%" y="-10" fill="#00D9FF" font-size="14" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3s" repeatCount="indefinite" />❄</text>
-    <text x="64%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.9s" repeatCount="indefinite" />❅</text>
-    <text x="66%" y="-10" fill="#9D50FF" font-size="16" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3.1s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3.1s" repeatCount="indefinite" />❆</text>
-    <text x="68%" y="-10" fill="#00D9FF" font-size="14" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.6s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.6s" repeatCount="indefinite" />❄</text>
-    <text x="70%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3s" repeatCount="indefinite" />❅</text>
-    <text x="72%" y="-10" fill="#9D50FF" font-size="16" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.8s" repeatCount="indefinite" />❆</text>
-    <text x="74%" y="-10" fill="#00D9FF" font-size="14" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3.2s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3.2s" repeatCount="indefinite" />❄</text>
-    <text x="76%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.7s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.7s" repeatCount="indefinite" />❅</text>
-    <text x="78%" y="-10" fill="#9D50FF" font-size="16" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3s" repeatCount="indefinite" />❆</text>
-    <text x="80%" y="-10" fill="#00D9FF" font-size="14" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.9s" repeatCount="indefinite" />❄</text>
-    <!-- Layer 2: Medium speed snowflakes (25 snowflakes) - Centered distribution (20%-80%) -->
-    <text x="20%" y="-20" fill="#00D9FF" font-size="11" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.5s" repeatCount="indefinite" />❅</text>
-    <text x="22.5%" y="-20" fill="#FF6B9D" font-size="10" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.8s" repeatCount="indefinite" />❆</text>
-    <text x="25%" y="-20" fill="#9D50FF" font-size="12" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.6s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.6s" repeatCount="indefinite" />❄</text>
-    <text x="27.5%" y="-20" fill="#00D9FF" font-size="11" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.7s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.7s" repeatCount="indefinite" />❅</text>
-    <text x="30%" y="-20" fill="#FF6B9D" font-size="10" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.9s" repeatCount="indefinite" />❆</text>
-    <text x="32.5%" y="-20" fill="#9D50FF" font-size="12" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.4s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.4s" repeatCount="indefinite" />❄</text>
-    <text x="35%" y="-20" fill="#00D9FF" font-size="11" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.5s" repeatCount="indefinite" />❅</text>
-    <text x="37.5%" y="-20" fill="#FF6B9D" font-size="10" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.8s" repeatCount="indefinite" />❆</text>
-    <text x="40%" y="-20" fill="#9D50FF" font-size="12" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.6s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.6s" repeatCount="indefinite" />❄</text>
-    <text x="42.5%" y="-20" fill="#00D9FF" font-size="11" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.7s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.7s" repeatCount="indefinite" />❅</text>
-    <text x="45%" y="-20" fill="#FF6B9D" font-size="10" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.9s" repeatCount="indefinite" />❆</text>
-    <text x="47.5%" y="-20" fill="#9D50FF" font-size="12" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.4s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.4s" repeatCount="indefinite" />❄</text>
-    <text x="50%" y="-20" fill="#00D9FF" font-size="11" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.5s" repeatCount="indefinite" />❅</text>
-    <text x="52.5%" y="-20" fill="#FF6B9D" font-size="10" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.8s" repeatCount="indefinite" />❆</text>
-    <text x="55%" y="-20" fill="#9D50FF" font-size="12" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.6s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.6s" repeatCount="indefinite" />❄</text>
-    <text x="57.5%" y="-20" fill="#00D9FF" font-size="11" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.7s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.7s" repeatCount="indefinite" />❅</text>
-    <text x="60%" y="-20" fill="#FF6B9D" font-size="10" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.9s" repeatCount="indefinite" />❆</text>
-    <text x="62.5%" y="-20" fill="#9D50FF" font-size="12" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.4s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.4s" repeatCount="indefinite" />❄</text>
-    <text x="65%" y="-20" fill="#00D9FF" font-size="11" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.5s" repeatCount="indefinite" />❅</text>
-    <text x="67.5%" y="-20" fill="#FF6B9D" font-size="10" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.8s" repeatCount="indefinite" />❆</text>
-    <text x="70%" y="-20" fill="#9D50FF" font-size="12" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.6s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.6s" repeatCount="indefinite" />❄</text>
-    <text x="72.5%" y="-20" fill="#00D9FF" font-size="11" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.7s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.7s" repeatCount="indefinite" />❅</text>
-    <text x="75%" y="-20" fill="#FF6B9D" font-size="10" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.9s" repeatCount="indefinite" />❆</text>
-    <text x="77.5%" y="-20" fill="#9D50FF" font-size="12" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.4s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.4s" repeatCount="indefinite" />❄</text>
-    <text x="80%" y="-20" fill="#00D9FF" font-size="11" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.5s" repeatCount="indefinite" />❅</text>
-    <!-- Layer 3: Slow falling snowflakes (20 snowflakes) - Centered distribution (20%-80%) -->
-    <text x="20%" y="-30" fill="#00D9FF" font-size="9" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5s" repeatCount="indefinite" />❆</text>
-    <text x="23.15%" y="-30" fill="#FF6B9D" font-size="8" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.2s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.2s" repeatCount="indefinite" />❄</text>
-    <text x="26.3%" y="-30" fill="#9D50FF" font-size="10" opacity="0.5"><animate attributeName="y" values="-30;180" dur="4.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="4.8s" repeatCount="indefinite" />❅</text>
-    <text x="29.45%" y="-30" fill="#00D9FF" font-size="9" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.1s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.1s" repeatCount="indefinite" />❆</text>
-    <text x="32.6%" y="-30" fill="#FF6B9D" font-size="8" opacity="0.5"><animate attributeName="y" values="-30;180" dur="4.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="4.9s" repeatCount="indefinite" />❄</text>
-    <text x="35.75%" y="-30" fill="#9D50FF" font-size="10" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.3s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.3s" repeatCount="indefinite" />❅</text>
-    <text x="38.9%" y="-30" fill="#00D9FF" font-size="9" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5s" repeatCount="indefinite" />❆</text>
-    <text x="42.05%" y="-30" fill="#FF6B9D" font-size="8" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.2s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.2s" repeatCount="indefinite" />❄</text>
-    <text x="45.2%" y="-30" fill="#9D50FF" font-size="10" opacity="0.5"><animate attributeName="y" values="-30;180" dur="4.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="4.8s" repeatCount="indefinite" />❅</text>
-    <text x="48.35%" y="-30" fill="#00D9FF" font-size="9" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.1s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.1s" repeatCount="indefinite" />❆</text>
-    <text x="51.5%" y="-30" fill="#FF6B9D" font-size="8" opacity="0.5"><animate attributeName="y" values="-30;180" dur="4.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="4.9s" repeatCount="indefinite" />❄</text>
-    <text x="54.65%" y="-30" fill="#9D50FF" font-size="10" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.3s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.3s" repeatCount="indefinite" />❅</text>
-    <text x="57.8%" y="-30" fill="#00D9FF" font-size="9" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5s" repeatCount="indefinite" />❆</text>
-    <text x="60.95%" y="-30" fill="#FF6B9D" font-size="8" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.2s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.2s" repeatCount="indefinite" />❄</text>
-    <text x="64.1%" y="-30" fill="#9D50FF" font-size="10" opacity="0.5"><animate attributeName="y" values="-30;180" dur="4.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="4.8s" repeatCount="indefinite" />❅</text>
-    <text x="67.25%" y="-30" fill="#00D9FF" font-size="9" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.1s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.1s" repeatCount="indefinite" />❆</text>
-    <text x="70.4%" y="-30" fill="#FF6B9D" font-size="8" opacity="0.5"><animate attributeName="y" values="-30;180" dur="4.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="4.9s" repeatCount="indefinite" />❄</text>
-    <text x="73.55%" y="-30" fill="#9D50FF" font-size="10" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.3s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.3s" repeatCount="indefinite" />❅</text>
-    <text x="76.7%" y="-30" fill="#00D9FF" font-size="9" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5s" repeatCount="indefinite" />❆</text>
-    <text x="79.85%" y="-30" fill="#FF6B9D" font-size="8" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.2s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.2s" repeatCount="indefinite" />❄</text>
-  </svg>
-</div>
+<!-- Professional Background Wrapper -->
+<div style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 50%, #16213e 100%); padding: 30px 20px; border-radius: 15px; box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);">
 
 <!-- Modern Gradient Top Bar -->
 <div align="center" style="margin-bottom: 40px;">
@@ -90,48 +8,10 @@
 
 <div align="center">
   
-  <!-- Piled Up Snow Effect - Top Layer -->
-  <div style="margin-bottom: 15px; opacity: 0.8; line-height: 1.5;">
-    <p align="center" style="margin: 0; font-size: 0.9em;">
-      <span style="color: #00D9FF;">❄️</span>
-      <span style="color: #FF6B9D; margin: 0 8px;">❅</span>
-      <span style="color: #9D50FF;">❆</span>
-      <span style="color: #00D9FF; margin: 0 8px;">❄️</span>
-      <span style="color: #FF6B9D;">❅</span>
-      <span style="color: #9D50FF; margin: 0 8px;">❆</span>
-      <span style="color: #00D9FF;">❄️</span>
-      <span style="color: #FF6B9D; margin: 0 8px;">❅</span>
-      <span style="color: #9D50FF;">❆</span>
-      <span style="color: #00D9FF; margin: 0 8px;">❄️</span>
-      <span style="color: #FF6B9D;">❅</span>
-      <span style="color: #9D50FF; margin: 0 8px;">❆</span>
-      <span style="color: #00D9FF;">❄️</span>
-    </p>
-  </div>
-  
   <!-- Professional Header with Animated Effect - One Line -->
   <h1 align="center" style="margin-bottom: 30px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=800&color=FF6B9D&center=true&vCenter=true&width=700&lines=Hi+there!+I+am+a+Software+Engineer;Hi+there!+I+am+a+Mobile+App+Developer;Hi+there!+I+am+a+AI+Engineer" alt="Professional Title" />
   </h1>
-  
-  <!-- Piled Up Snow Effect - Middle Layer -->
-  <div style="margin: 15px 0; opacity: 0.75; line-height: 1.5;">
-    <p align="center" style="margin: 0; font-size: 0.85em;">
-      <span style="color: #9D50FF;">❅</span>
-      <span style="color: #00D9FF; margin: 0 10px;">❄️</span>
-      <span style="color: #FF6B9D;">❆</span>
-      <span style="color: #9D50FF; margin: 0 10px;">❅</span>
-      <span style="color: #00D9FF;">❄️</span>
-      <span style="color: #FF6B9D; margin: 0 10px;">❆</span>
-      <span style="color: #9D50FF;">❅</span>
-      <span style="color: #00D9FF; margin: 0 10px;">❄️</span>
-      <span style="color: #FF6B9D;">❆</span>
-      <span style="color: #9D50FF; margin: 0 10px;">❅</span>
-      <span style="color: #00D9FF;">❄️</span>
-      <span style="color: #FF6B9D; margin: 0 10px;">❆</span>
-      <span style="color: #9D50FF;">❅</span>
-    </p>
-  </div>
   
   <!-- Clean Professional Badges -->
   <p align="center" style="margin: 20px 0;">
@@ -140,66 +20,25 @@
     <img src="https://img.shields.io/badge/Cross--Platform-9D50FF?style=flat-square&logo=code&logoColor=white&labelColor=1a1a2e" alt="Cross Platform" />
   </p>
   
-  <!-- Piled Up Snow Effect - Around Tagline -->
-  <div style="margin: 10px 0; opacity: 0.7; line-height: 1.5;">
-    <p align="center" style="margin: 0; font-size: 0.8em;">
-      <span style="color: #00D9FF;">❆</span>
-      <span style="color: #FF6B9D; margin: 0 12px;">❅</span>
-      <span style="color: #9D50FF;">❄️</span>
-      <span style="color: #00D9FF; margin: 0 12px;">❆</span>
-      <span style="color: #FF6B9D;">❅</span>
-      <span style="color: #9D50FF; margin: 0 12px;">❄️</span>
-      <span style="color: #00D9FF;">❆</span>
-      <span style="color: #FF6B9D; margin: 0 12px;">❅</span>
-      <span style="color: #9D50FF;">❄️</span>
-      <span style="color: #00D9FF; margin: 0 12px;">❆</span>
-      <span style="color: #FF6B9D;">❅</span>
-    </p>
-  </div>
-  
   <!-- Simple Professional Tagline -->
-  <p align="center" style="font-size: 1.1em; color: #00D9FF; margin-top: 20px; max-width: 800px; margin-left: auto; margin-right: auto;">
+  <p align="center" style="font-size: 1.1em; color: #00D9FF; margin-top: 20px; max-width: 800px; margin-left: auto; margin-right: auto; font-weight: 300;">
     Crafting exceptional mobile experiences with cutting-edge AI technologies
   </p>
   
-  <!-- Piled Up Snow Effect - Bottom Layer -->
-  <div style="margin-top: 20px; opacity: 0.8; line-height: 1.5;">
-    <p align="center" style="margin: 0; font-size: 0.9em;">
-      <span style="color: #00D9FF;">❄️</span>
-      <span style="color: #FF6B9D; margin: 0 8px;">❅</span>
-      <span style="color: #9D50FF;">❆</span>
-      <span style="color: #00D9FF; margin: 0 8px;">❄️</span>
-      <span style="color: #FF6B9D;">❅</span>
-      <span style="color: #9D50FF; margin: 0 8px;">❆</span>
-      <span style="color: #00D9FF;">❄️</span>
-      <span style="color: #FF6B9D; margin: 0 8px;">❅</span>
-      <span style="color: #9D50FF;">❆</span>
-      <span style="color: #00D9FF; margin: 0 8px;">❄️</span>
-      <span style="color: #FF6B9D;">❅</span>
-      <span style="color: #9D50FF; margin: 0 8px;">❆</span>
-      <span style="color: #00D9FF;">❄️</span>
+  <!-- Professional Stats Badges -->
+  <div align="center" style="margin: 40px 0;">
+    <p align="center" style="margin: 15px 0;">
+      <img src="https://img.shields.io/badge/7%2B+Years+Experience-FF6B9D?style=for-the-badge&logo=clock&logoColor=white&labelColor=1a1a2e" alt="Experience" />
+      <img src="https://img.shields.io/badge/20%2B+Mobile+Apps-00D9FF?style=for-the-badge&logo=mobile&logoColor=white&labelColor=1a1a2e" alt="Apps" />
+      <img src="https://img.shields.io/badge/5M%2B+Downloads-9D50FF?style=for-the-badge&logo=download&logoColor=white&labelColor=1a1a2e" alt="Downloads" />
+    </p>
+    <p align="center" style="margin: 15px 0;">
+      <img src="https://img.shields.io/badge/4.5%2B+Star+Rating-FF6B9D?style=for-the-badge&logo=star&logoColor=white&labelColor=1a1a2e" alt="Rating" />
+      <img src="https://img.shields.io/badge/AI+Powered-00D9FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white&labelColor=1a1a2e" alt="AI" />
+      <img src="https://img.shields.io/badge/Cross+Platform-9D50FF?style=for-the-badge&logo=code&logoColor=white&labelColor=1a1a2e" alt="Cross Platform" />
     </p>
   </div>
   
-</div>
-
-<!-- Piled Up Snow Effect - Before Section -->
-<div align="center" style="margin-top: 20px; opacity: 0.75; line-height: 1.5;">
-  <p style="font-size: 0.85em; margin: 0;">
-    <span style="color: #00D9FF;">❄️</span>
-    <span style="color: #FF6B9D; margin: 0 10px;">❅</span>
-    <span style="color: #9D50FF;">❆</span>
-    <span style="color: #00D9FF; margin: 0 10px;">❄️</span>
-    <span style="color: #FF6B9D;">❅</span>
-    <span style="color: #9D50FF; margin: 0 10px;">❆</span>
-    <span style="color: #00D9FF;">❄️</span>
-    <span style="color: #FF6B9D; margin: 0 10px;">❅</span>
-    <span style="color: #9D50FF;">❆</span>
-    <span style="color: #00D9FF; margin: 0 10px;">❄️</span>
-    <span style="color: #FF6B9D;">❅</span>
-    <span style="color: #9D50FF; margin: 0 10px;">❆</span>
-    <span style="color: #00D9FF;">❄️</span>
-  </p>
 </div>
 
 <!-- Modern Gradient Bottom Bar -->
@@ -207,32 +46,18 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&section=header&text=&fontSize=0&customColorList=FF6B9D,00D9FF,9D50FF" alt="Bottom Gradient Bar" />
 </div>
 
-<!-- Modern Section Divider with Enhanced Snowflakes -->
+<!-- Modern Section Divider -->
 <div align="center" style="margin: 30px 0;">
-  <p style="margin: 8px 0; opacity: 0.7; font-size: 0.8em; line-height: 1.5;">
-    <span style="color: #00D9FF;">❄️</span>
-    <span style="color: #FF6B9D; margin: 0 5px;">❅</span>
-    <span style="color: #9D50FF;">❆</span>
-    <span style="color: #00D9FF; margin: 0 5px;">❄️</span>
-    <span style="color: #FF6B9D;">❅</span>
-    <span style="color: #9D50FF; margin: 0 5px;">❆</span>
-    <span style="color: #00D9FF;">❄️</span>
-  </p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&text=&fontSize=0&customColorList=FF6B9D,00D9FF" alt="Divider" />
-  <p style="margin: 8px 0; opacity: 0.7; font-size: 0.8em; line-height: 1.5;">
-    <span style="color: #9D50FF;">❆</span>
-    <span style="color: #00D9FF; margin: 0 5px;">❄️</span>
-    <span style="color: #FF6B9D;">❅</span>
-    <span style="color: #9D50FF; margin: 0 5px;">❆</span>
-    <span style="color: #00D9FF;">❄️</span>
-    <span style="color: #FF6B9D; margin: 0 5px;">❅</span>
-    <span style="color: #9D50FF;">❆</span>
-  </p>
 </div>
 
 ## 📝 About Me
 
-<div align="center" style="color: #E0E0E0; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 0 20px;">
+<div align="center" style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2000&pause=600&color=00D9FF&center=true&vCenter=true&width=400&lines=✨+About+Me" alt="About Me Title" />
+</div>
+
+<div align="center" style="color: #E0E0E0; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 20px; background: rgba(26, 26, 46, 0.5); border-radius: 10px; border: 1px solid rgba(0, 217, 255, 0.2);">
 
 I'm a **Senior Mobile App Developer** and **AI Engineer** with **7+ years** of experience specializing in AI-enhanced mobile solutions and cross-platform development. I've successfully delivered **20+ mobile applications** with over **5 million combined downloads** and maintained **4.5+ star ratings** across app stores.
 
@@ -242,7 +67,11 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 
 ### 🎯 Specializations
 
-<div align="center" style="color: #E0E0E0;">
+<div align="center" style="margin: 15px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2000&pause=600&color=FF6B9D&center=true&vCenter=true&width=400&lines=🎯+Specializations" alt="Specializations Title" />
+</div>
+
+<div align="center" style="color: #E0E0E0; padding: 20px; background: rgba(26, 26, 46, 0.5); border-radius: 10px; border: 1px solid rgba(0, 217, 255, 0.2);">
 
 | Area | Expertise |
 |------|-----------|
@@ -257,43 +86,23 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 
 </div>
 
-<!-- Modern Section Divider with Enhanced Snowflakes -->
+<!-- Modern Section Divider -->
 <div align="center" style="margin: 30px 0;">
-  <p style="margin: 8px 0; opacity: 0.7; font-size: 0.8em; line-height: 1.5;">
-    <span style="color: #00D9FF;">❄️</span>
-    <span style="color: #FF6B9D; margin: 0 5px;">❅</span>
-    <span style="color: #9D50FF;">❆</span>
-    <span style="color: #00D9FF; margin: 0 5px;">❄️</span>
-    <span style="color: #FF6B9D;">❅</span>
-    <span style="color: #9D50FF; margin: 0 5px;">❆</span>
-    <span style="color: #00D9FF;">❄️</span>
-  </p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&text=&fontSize=0&customColorList=FF6B9D,00D9FF" alt="Divider" />
-  <p style="margin: 8px 0; opacity: 0.7; font-size: 0.8em; line-height: 1.5;">
-    <span style="color: #9D50FF;">❆</span>
-    <span style="color: #00D9FF; margin: 0 5px;">❄️</span>
-    <span style="color: #FF6B9D;">❅</span>
-    <span style="color: #9D50FF; margin: 0 5px;">❆</span>
-    <span style="color: #00D9FF;">❄️</span>
-    <span style="color: #FF6B9D; margin: 0 5px;">❅</span>
-    <span style="color: #9D50FF;">❆</span>
-  </p>
 </div>
 
 ## 🛠 Skill Sets
 
-<div align="center">
-  
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2000&pause=600&color=FF6B9D&center=true&vCenter=true&width=600&lines=💻+Mobile+App+%26+AI+Technologies" alt="Skills Title" />
-  </h3>
-  
+<div align="center" style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2000&pause=600&color=FF6B9D&center=true&vCenter=true&width=600&lines=💻+Mobile+App+%26+AI+Technologies" alt="Skills Title" />
 </div>
 
 <div align="center">
 
 ### 📱 Native Mobile Development
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #00D9FF; margin: 0 auto;">
+
+<div style="background: rgba(26, 26, 46, 0.2); padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #00D9FF;">
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #00D9FF; margin: 0 auto; background: rgba(26, 26, 46, 0.3); border-radius: 8px;">
   <tr>
     <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=1a1a2e" alt="iOS" /></td>
     <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=1a1a2e" alt="Swift" /></td>
@@ -313,9 +122,12 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
     <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=1a1a2e" alt="Coroutines" /></td>
   </tr>
 </table>
+</div>
 
 ### 🔄 Cross-Platform Development
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #00D9FF; margin: 0 auto;">
+
+<div style="background: rgba(26, 26, 46, 0.2); padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #00D9FF;">
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #00D9FF; margin: 0 auto; background: rgba(26, 26, 46, 0.3); border-radius: 8px;">
   <tr>
     <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1a2e" alt="React Native" /></td>
     <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a2e" alt="Flutter" /></td>
@@ -329,53 +141,62 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
     <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a2e" alt="TypeScript" /></td>
   </tr>
 </table>
+</div>
 
 ### 🤖 AI & Machine Learning
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #00D9FF; margin: 0 auto;">
+
+<div style="background: rgba(26, 26, 46, 0.2); padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #FF6B9D;">
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #FF6B9D; margin: 0 auto; background: rgba(26, 26, 46, 0.3); border-radius: 8px;">
   <tr>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/OpenAI-4CAF50?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" alt="OpenAI" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a2e" alt="TensorFlow" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a1a2e" alt="PyTorch" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/LangChain-00FF00?style=for-the-badge&logo=langchain&logoColor=white&labelColor=1a1a2e" alt="LangChain" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/OpenAI-4CAF50?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" alt="OpenAI" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a2e" alt="TensorFlow" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a1a2e" alt="PyTorch" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/LangChain-00FF00?style=for-the-badge&logo=langchain&logoColor=white&labelColor=1a1a2e" alt="LangChain" /></td>
   </tr>
   <tr>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/RAG-FF5722?style=for-the-badge&logo=rag&logoColor=white&labelColor=1a1a2e" alt="RAG" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Vector%20DB-9C27B0?style=for-the-badge&logo=vectordb&logoColor=white&labelColor=1a1a2e" alt="Vector DB" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" alt="Python" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a2e" alt="Scikit-Learn" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/RAG-FF5722?style=for-the-badge&logo=rag&logoColor=white&labelColor=1a1a2e" alt="RAG" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Vector%20DB-9C27B0?style=for-the-badge&logo=vectordb&logoColor=white&labelColor=1a1a2e" alt="Vector DB" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" alt="Python" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a2e" alt="Scikit-Learn" /></td>
   </tr>
   <tr>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a2e" alt="Pandas" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a2e" alt="NumPy" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a1a2e" alt="OpenCV" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=1a1a2e" alt="Hugging Face" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a2e" alt="Pandas" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a2e" alt="NumPy" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a1a2e" alt="OpenCV" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=1a1a2e" alt="Hugging Face" /></td>
   </tr>
 </table>
+</div>
 
 ### ⚙️ Backend & APIs
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #00D9FF; margin: 0 auto;">
+
+<div style="background: rgba(26, 26, 46, 0.2); padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #9D50FF;">
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #9D50FF; margin: 0 auto; background: rgba(26, 26, 46, 0.3); border-radius: 8px;">
   <tr>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a2e" alt="Node.js" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=1a1a2e" alt="Firebase" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=1a1a2e" alt="GraphQL" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/REST%20APIs-FF6B6B?style=for-the-badge&logo=rest&logoColor=white&labelColor=1a1a2e" alt="REST APIs" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a2e" alt="Node.js" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=1a1a2e" alt="Firebase" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=1a1a2e" alt="GraphQL" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/REST%20APIs-FF6B6B?style=for-the-badge&logo=rest&logoColor=white&labelColor=1a1a2e" alt="REST APIs" /></td>
   </tr>
   <tr>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a2e" alt="MongoDB" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e" alt="PostgreSQL" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a2e" alt="Redis" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a2e" alt="Express" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a2e" alt="MongoDB" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e" alt="PostgreSQL" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a2e" alt="Redis" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a2e" alt="Express" /></td>
   </tr>
   <tr>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a2e" alt="MySQL" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1a1a2e" alt="SQLite" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white&labelColor=1a1a2e" alt="Realm" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=1a1a2e" alt="Socket.io" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a2e" alt="MySQL" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1a1a2e" alt="SQLite" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white&labelColor=1a1a2e" alt="Realm" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=1a1a2e" alt="Socket.io" /></td>
   </tr>
 </table>
+</div>
 
 ### 🛠️ Mobile Development Tools
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #00D9FF; margin: 0 auto;">
+
+<div style="background: rgba(26, 26, 46, 0.2); padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #00D9FF;">
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #00D9FF; margin: 0 auto; background: rgba(26, 26, 46, 0.3); border-radius: 8px;">
   <tr>
     <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e" alt="Git" /></td>
     <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub" /></td>
@@ -397,42 +218,53 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 </table>
 
 ### 🧪 Testing & Quality Assurance
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #00D9FF; margin: 0 auto;">
+
+<div style="background: rgba(26, 26, 46, 0.2); padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #FF6B9D;">
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #FF6B9D; margin: 0 auto; background: rgba(26, 26, 46, 0.3); border-radius: 8px;">
   <tr>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=1a1a2e" alt="Jest" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Detox-000000?style=for-the-badge&logo=detox&logoColor=white&labelColor=1a1a2e" alt="Detox" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=white&labelColor=1a1a2e" alt="Appium" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/XCUITest-000000?style=for-the-badge&logo=xcuitest&logoColor=white&labelColor=1a1a2e" alt="XCUITest" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=1a1a2e" alt="Jest" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Detox-000000?style=for-the-badge&logo=detox&logoColor=white&labelColor=1a1a2e" alt="Detox" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=white&labelColor=1a1a2e" alt="Appium" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/XCUITest-000000?style=for-the-badge&logo=xcuitest&logoColor=white&labelColor=1a1a2e" alt="XCUITest" /></td>
   </tr>
   <tr>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Espresso-000000?style=for-the-badge&logo=espresso&logoColor=white&labelColor=1a1a2e" alt="Espresso" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=1a1a2e" alt="SonarQube" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white&labelColor=1a1a2e" alt="React Testing Library" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white&labelColor=1a1a2e" alt="Cypress" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Espresso-000000?style=for-the-badge&logo=espresso&logoColor=white&labelColor=1a1a2e" alt="Espresso" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=1a1a2e" alt="SonarQube" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white&labelColor=1a1a2e" alt="React Testing Library" /></td>
+    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white&labelColor=1a1a2e" alt="Cypress" /></td>
   </tr>
 </table>
+</div>
 
 ### ☁️ Cloud & DevOps
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #00D9FF; margin: 0 auto;">
+
+<div style="background: rgba(26, 26, 46, 0.2); padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #9D50FF;">
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #9D50FF; margin: 0 auto; background: rgba(26, 26, 46, 0.3); border-radius: 8px;">
   <tr>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a2e" alt="AWS" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1a1a2e" alt="Google Cloud" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e" alt="Docker" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1a2e" alt="Kubernetes" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a2e" alt="AWS" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1a1a2e" alt="Google Cloud" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e" alt="Docker" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1a2e" alt="Kubernetes" /></td>
   </tr>
   <tr>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=1a1a2e" alt="Azure" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=1a1a2e" alt="Heroku" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" alt="Vercel" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1a2e" alt="Netlify" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=1a1a2e" alt="Azure" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=1a1a2e" alt="Heroku" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" alt="Vercel" /></td>
+    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1a2e" alt="Netlify" /></td>
   </tr>
 </table>
+</div>
+</div>
 
 </div>
 
 ## ✨ Key Skills Summary
 
-<div align="center" style="color: #E0E0E0;">
+<div align="center" style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2000&pause=600&color=9D50FF&center=true&vCenter=true&width=500&lines=✨+Key+Skills+Summary" alt="Skills Summary Title" />
+</div>
+
+<div align="center" style="color: #E0E0E0; padding: 20px; background: rgba(26, 26, 46, 0.5); border-radius: 10px; border: 1px solid rgba(0, 217, 255, 0.2);">
 
 | Category | Technologies |
 |----------|-------------|
@@ -446,38 +278,18 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 
 </div>
 
-<!-- Modern Section Divider with Enhanced Snowflakes -->
+<!-- Modern Section Divider -->
 <div align="center" style="margin: 30px 0;">
-  <p style="margin: 8px 0; opacity: 0.7; font-size: 0.8em; line-height: 1.5;">
-    <span style="color: #00D9FF;">❄️</span>
-    <span style="color: #FF6B9D; margin: 0 5px;">❅</span>
-    <span style="color: #9D50FF;">❆</span>
-    <span style="color: #00D9FF; margin: 0 5px;">❄️</span>
-    <span style="color: #FF6B9D;">❅</span>
-    <span style="color: #9D50FF; margin: 0 5px;">❆</span>
-    <span style="color: #00D9FF;">❄️</span>
-  </p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&text=&fontSize=0&customColorList=FF6B9D,00D9FF" alt="Divider" />
-  <p style="margin: 8px 0; opacity: 0.7; font-size: 0.8em; line-height: 1.5;">
-    <span style="color: #9D50FF;">❆</span>
-    <span style="color: #00D9FF; margin: 0 5px;">❄️</span>
-    <span style="color: #FF6B9D;">❅</span>
-    <span style="color: #9D50FF; margin: 0 5px;">❆</span>
-    <span style="color: #00D9FF;">❄️</span>
-    <span style="color: #FF6B9D; margin: 0 5px;">❅</span>
-    <span style="color: #9D50FF;">❆</span>
-  </p>
 </div>
 
 ## 🚀 Projects
 
-<div align="center">
-  
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2000&pause=600&color=00D9FF&center=true&vCenter=true&width=500&lines=🚀+Featured+Mobile+Applications" alt="Projects Title" />
-  </h3>
-  
+<div align="center" style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2000&pause=600&color=00D9FF&center=true&vCenter=true&width=500&lines=🚀+Featured+Mobile+Applications" alt="Projects Title" />
 </div>
+
+<div style="background: rgba(26, 26, 46, 0.3); padding: 20px; border-radius: 10px; border: 1px solid rgba(0, 217, 255, 0.2);">
 
 | Project Name                  | Description                                                                 | Technologies | App Store |
 |-------------------------------|-----------------------------------------------------------------------------|--------------|-----------|
@@ -487,7 +299,15 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 | **Social Media App** | React Native social platform with real-time messaging | React Native, Socket.io, AWS S3, Redis | [iOS](https://apps.apple.com/us/app/butterflies-talk-to-real-ais/id6471347348) |
 | **Travel Companion App** | Offline-capable travel app with maps and booking integration | Flutter, SQLite, Google Maps, Booking APIs | [iOS](https://apps.apple.com/us/app/marriott-bonvoy-book-hotels/id455004730) / [Android](https://play.google.com/store/apps/details?id=com.marriott.mrt&hl=en) |
 
+</div>
+
 ### AI-Enhanced Mobile Projects
+
+<div align="center" style="margin: 15px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2000&pause=600&color=9D50FF&center=true&vCenter=true&width=500&lines=🤖+AI-Enhanced+Mobile+Projects" alt="AI Projects Title" />
+</div>
+
+<div style="background: rgba(26, 26, 46, 0.3); padding: 20px; border-radius: 10px; border: 1px solid rgba(0, 217, 255, 0.2);">
 
 | Project Name                  | Description                                                                 | Technologies | Status |
 |-------------------------------|-----------------------------------------------------------------------------|--------------|--------|
@@ -497,9 +317,15 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 | **Predictive Analytics Dashboard** | ML-powered insights for mobile app performance | Python, Scikit-learn, React Native, REST APIs | 🔄 In Development |
 | **AI Content Generator** | Mobile app for AI-powered content creation | OpenAI GPT, React Native, Node.js, MongoDB | 🚀 Live |
 
+</div>
+
 ### 🏆 Key Achievements
 
-<div align="center">
+<div align="center" style="margin: 15px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2000&pause=600&color=00D9FF&center=true&vCenter=true&width=400&lines=🏆+Key+Achievements" alt="Achievements Title" />
+</div>
+
+<div align="center" style="color: #E0E0E0; padding: 20px; background: rgba(26, 26, 46, 0.5); border-radius: 10px; border: 1px solid rgba(0, 217, 255, 0.2);">
 
 | Metric | Achievement |
 |--------|-------------|
@@ -513,36 +339,18 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 
 </div>
 
-<!-- Modern Section Divider with Enhanced Snowflakes -->
+<!-- Modern Section Divider -->
 <div align="center" style="margin: 30px 0;">
-  <p style="margin: 8px 0; opacity: 0.7; font-size: 0.8em; line-height: 1.5;">
-    <span style="color: #00D9FF;">❄️</span>
-    <span style="color: #FF6B9D; margin: 0 5px;">❅</span>
-    <span style="color: #9D50FF;">❆</span>
-    <span style="color: #00D9FF; margin: 0 5px;">❄️</span>
-    <span style="color: #FF6B9D;">❅</span>
-    <span style="color: #9D50FF; margin: 0 5px;">❆</span>
-    <span style="color: #00D9FF;">❄️</span>
-  </p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&text=&fontSize=0&customColorList=FF6B9D,00D9FF" alt="Divider" />
-  <p style="margin: 8px 0; opacity: 0.7; font-size: 0.8em; line-height: 1.5;">
-    <span style="color: #9D50FF;">❆</span>
-    <span style="color: #00D9FF; margin: 0 5px;">❄️</span>
-    <span style="color: #FF6B9D;">❅</span>
-    <span style="color: #9D50FF; margin: 0 5px;">❆</span>
-    <span style="color: #00D9FF;">❄️</span>
-    <span style="color: #FF6B9D; margin: 0 5px;">❅</span>
-    <span style="color: #9D50FF;">❆</span>
-  </p>
 </div>
 
 ## 📫 How to Reach Me
 
+<div align="center" style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2000&pause=600&color=9D50FF&center=true&vCenter=true&width=400&lines=💬+Let's+Connect!" alt="Connect Title" />
+</div>
+
 <div align="center">
-  
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2000&pause=600&color=9D50FF&center=true&vCenter=true&width=400&lines=💬+Let's+Connect!" alt="Connect Title" />
-  </h3>
   
   <p align="center">
     <a href="mailto:onedream082498@gmail.com">
@@ -556,11 +364,16 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
     </a>
   </p>
   
-  <p align="center" style="color: #E0E0E0; line-height: 2;">
-    <strong style="color: #FF6B9D;">📧 Email:</strong> <a href="mailto:onedream082498@gmail.com" style="color: #00D9FF; text-decoration: none;">onedream082498@gmail.com</a><br/>
-    <strong style="color: #00D9FF;">💬 Telegram:</strong> <a href="https://t.me/UrDream0824" style="color: #9D50FF; text-decoration: none;">@UrDream0824</a> | 
-    <strong style="color: #9D50FF;">📱 WhatsApp:</strong> <a href="https://wa.me/13053391578" style="color: #FF6B9D; text-decoration: none;">+1 305 339 1578</a>
-  </p>
+  <div style="background: rgba(26, 26, 46, 0.5); padding: 25px; border-radius: 10px; border: 1px solid rgba(0, 217, 255, 0.2); max-width: 600px; margin: 20px auto;">
+    <p align="center" style="color: #E0E0E0; line-height: 2.5; margin: 0;">
+      <strong style="color: #FF6B9D; font-size: 1.1em;">📧 Email:</strong><br/>
+      <a href="mailto:onedream082498@gmail.com" style="color: #00D9FF; text-decoration: none; font-size: 1.05em;">onedream082498@gmail.com</a><br/><br/>
+      <strong style="color: #00D9FF; font-size: 1.1em;">💬 Telegram:</strong><br/>
+      <a href="https://t.me/UrDream0824" style="color: #9D50FF; text-decoration: none; font-size: 1.05em;">@UrDream0824</a><br/><br/>
+      <strong style="color: #9D50FF; font-size: 1.1em;">📱 WhatsApp:</strong><br/>
+      <a href="https://wa.me/13053391578" style="color: #FF6B9D; text-decoration: none; font-size: 1.05em;">+1 305 339 1578</a>
+    </p>
+  </div>
   
 </div>
 
@@ -568,7 +381,11 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 
 ## ⚡ Professional Highlights
 
-<div align="center" style="color: #E0E0E0;">
+<div align="center" style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2000&pause=600&color=FF6B9D&center=true&vCenter=true&width=500&lines=⚡+Professional+Highlights" alt="Highlights Title" />
+</div>
+
+<div align="center" style="color: #E0E0E0; padding: 20px; background: rgba(26, 26, 46, 0.5); border-radius: 10px; border: 1px solid rgba(0, 217, 255, 0.2);">
 
 | Experience | Impact |
 |------------|--------|
@@ -583,27 +400,9 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 
 </div>
 
-<!-- Modern Section Divider with Enhanced Snowflakes -->
+<!-- Modern Section Divider -->
 <div align="center" style="margin: 30px 0;">
-  <p style="margin: 8px 0; opacity: 0.7; font-size: 0.8em; line-height: 1.5;">
-    <span style="color: #00D9FF;">❄️</span>
-    <span style="color: #FF6B9D; margin: 0 5px;">❅</span>
-    <span style="color: #9D50FF;">❆</span>
-    <span style="color: #00D9FF; margin: 0 5px;">❄️</span>
-    <span style="color: #FF6B9D;">❅</span>
-    <span style="color: #9D50FF; margin: 0 5px;">❆</span>
-    <span style="color: #00D9FF;">❄️</span>
-  </p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&text=&fontSize=0&customColorList=FF6B9D,00D9FF" alt="Divider" />
-  <p style="margin: 8px 0; opacity: 0.7; font-size: 0.8em; line-height: 1.5;">
-    <span style="color: #9D50FF;">❆</span>
-    <span style="color: #00D9FF; margin: 0 5px;">❄️</span>
-    <span style="color: #FF6B9D;">❅</span>
-    <span style="color: #9D50FF; margin: 0 5px;">❆</span>
-    <span style="color: #00D9FF;">❄️</span>
-    <span style="color: #FF6B9D; margin: 0 5px;">❅</span>
-    <span style="color: #9D50FF;">❆</span>
-  </p>
 </div>
 
 <div align="center">
@@ -613,111 +412,10 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1500&color=00D9FF&center=true&vCenter=true&width=800&lines=✨+Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Footer Message" />
   </h3>
   
-  <!-- Piled Up Snow Effect - Footer Bottom -->
-  <div style="margin: 20px 0; opacity: 0.8; line-height: 1.5;">
-    <p align="center" style="margin: 0; font-size: 0.9em;">
-      <span style="color: #00D9FF;">❄️</span>
-      <span style="color: #FF6B9D; margin: 0 8px;">❅</span>
-      <span style="color: #9D50FF;">❆</span>
-      <span style="color: #00D9FF; margin: 0 8px;">❄️</span>
-      <span style="color: #FF6B9D;">❅</span>
-      <span style="color: #9D50FF; margin: 0 8px;">❆</span>
-      <span style="color: #00D9FF;">❄️</span>
-      <span style="color: #FF6B9D; margin: 0 8px;">❅</span>
-      <span style="color: #9D50FF;">❆</span>
-      <span style="color: #00D9FF; margin: 0 8px;">❄️</span>
-      <span style="color: #FF6B9D;">❅</span>
-      <span style="color: #9D50FF; margin: 0 8px;">❆</span>
-      <span style="color: #00D9FF;">❄️</span>
-    </p>
-  </div>
-  
   <!-- Animated Contribution Graph Background -->
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" />
   
-  <!-- Animated Falling Snow Effect at Footer - Centered Distribution -->
-  <div align="center" style="margin-top: 20px; height: 150px; overflow: hidden; position: relative;">
-    <svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg" style="position: absolute; top: 0; left: 0; right: 0; margin: 0 auto;">
-      <!-- Layer 1: Fast falling snowflakes (30 snowflakes) - Centered distribution (20%-80%) -->
-      <text x="20%" y="-10" fill="#00D9FF" font-size="14" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.5s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.5s" repeatCount="indefinite" />❄</text>
-      <text x="22%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3s" repeatCount="indefinite" />❅</text>
-      <text x="24%" y="-10" fill="#9D50FF" font-size="16" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.8s" repeatCount="indefinite" />❆</text>
-      <text x="26%" y="-10" fill="#00D9FF" font-size="14" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3.2s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3.2s" repeatCount="indefinite" />❄</text>
-      <text x="28%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.7s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.7s" repeatCount="indefinite" />❅</text>
-      <text x="30%" y="-10" fill="#9D50FF" font-size="16" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3s" repeatCount="indefinite" />❆</text>
-      <text x="32%" y="-10" fill="#00D9FF" font-size="14" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.9s" repeatCount="indefinite" />❄</text>
-      <text x="34%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3.1s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3.1s" repeatCount="indefinite" />❅</text>
-      <text x="36%" y="-10" fill="#9D50FF" font-size="16" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.6s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.6s" repeatCount="indefinite" />❆</text>
-      <text x="38%" y="-10" fill="#00D9FF" font-size="14" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3s" repeatCount="indefinite" />❄</text>
-      <text x="40%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.8s" repeatCount="indefinite" />❅</text>
-      <text x="42%" y="-10" fill="#9D50FF" font-size="16" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3.2s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3.2s" repeatCount="indefinite" />❆</text>
-      <text x="44%" y="-10" fill="#00D9FF" font-size="14" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.7s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.7s" repeatCount="indefinite" />❄</text>
-      <text x="46%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3s" repeatCount="indefinite" />❅</text>
-      <text x="48%" y="-10" fill="#9D50FF" font-size="16" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.9s" repeatCount="indefinite" />❆</text>
-      <text x="50%" y="-10" fill="#00D9FF" font-size="14" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3.1s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3.1s" repeatCount="indefinite" />❄</text>
-      <text x="52%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.6s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.6s" repeatCount="indefinite" />❅</text>
-      <text x="54%" y="-10" fill="#9D50FF" font-size="16" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3s" repeatCount="indefinite" />❆</text>
-      <text x="56%" y="-10" fill="#00D9FF" font-size="14" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.8s" repeatCount="indefinite" />❄</text>
-      <text x="58%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3.2s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3.2s" repeatCount="indefinite" />❅</text>
-      <text x="60%" y="-10" fill="#9D50FF" font-size="16" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.7s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.7s" repeatCount="indefinite" />❆</text>
-      <text x="62%" y="-10" fill="#00D9FF" font-size="14" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3s" repeatCount="indefinite" />❄</text>
-      <text x="64%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.9s" repeatCount="indefinite" />❅</text>
-      <text x="66%" y="-10" fill="#9D50FF" font-size="16" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3.1s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3.1s" repeatCount="indefinite" />❆</text>
-      <text x="68%" y="-10" fill="#00D9FF" font-size="14" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.6s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.6s" repeatCount="indefinite" />❄</text>
-      <text x="70%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3s" repeatCount="indefinite" />❅</text>
-      <text x="72%" y="-10" fill="#9D50FF" font-size="16" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.8s" repeatCount="indefinite" />❆</text>
-      <text x="74%" y="-10" fill="#00D9FF" font-size="14" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3.2s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3.2s" repeatCount="indefinite" />❄</text>
-      <text x="76%" y="-10" fill="#FF6B9D" font-size="12" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.7s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.7s" repeatCount="indefinite" />❅</text>
-      <text x="78%" y="-10" fill="#9D50FF" font-size="16" opacity="0.8"><animate attributeName="y" values="-10;160" dur="3s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="3s" repeatCount="indefinite" />❆</text>
-      <text x="80%" y="-10" fill="#00D9FF" font-size="14" opacity="0.9"><animate attributeName="y" values="-10;160" dur="2.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="1;0" dur="2.9s" repeatCount="indefinite" />❄</text>
-      <!-- Layer 2: Medium speed snowflakes (25 snowflakes) - Centered distribution (20%-80%) -->
-      <text x="20%" y="-20" fill="#00D9FF" font-size="11" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.5s" repeatCount="indefinite" />❅</text>
-      <text x="22.5%" y="-20" fill="#FF6B9D" font-size="10" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.8s" repeatCount="indefinite" />❆</text>
-      <text x="25%" y="-20" fill="#9D50FF" font-size="12" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.6s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.6s" repeatCount="indefinite" />❄</text>
-      <text x="27.5%" y="-20" fill="#00D9FF" font-size="11" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.7s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.7s" repeatCount="indefinite" />❅</text>
-      <text x="30%" y="-20" fill="#FF6B9D" font-size="10" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.9s" repeatCount="indefinite" />❆</text>
-      <text x="32.5%" y="-20" fill="#9D50FF" font-size="12" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.4s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.4s" repeatCount="indefinite" />❄</text>
-      <text x="35%" y="-20" fill="#00D9FF" font-size="11" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.5s" repeatCount="indefinite" />❅</text>
-      <text x="37.5%" y="-20" fill="#FF6B9D" font-size="10" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.8s" repeatCount="indefinite" />❆</text>
-      <text x="40%" y="-20" fill="#9D50FF" font-size="12" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.6s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.6s" repeatCount="indefinite" />❄</text>
-      <text x="42.5%" y="-20" fill="#00D9FF" font-size="11" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.7s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.7s" repeatCount="indefinite" />❅</text>
-      <text x="45%" y="-20" fill="#FF6B9D" font-size="10" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.9s" repeatCount="indefinite" />❆</text>
-      <text x="47.5%" y="-20" fill="#9D50FF" font-size="12" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.4s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.4s" repeatCount="indefinite" />❄</text>
-      <text x="50%" y="-20" fill="#00D9FF" font-size="11" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.5s" repeatCount="indefinite" />❅</text>
-      <text x="52.5%" y="-20" fill="#FF6B9D" font-size="10" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.8s" repeatCount="indefinite" />❆</text>
-      <text x="55%" y="-20" fill="#9D50FF" font-size="12" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.6s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.6s" repeatCount="indefinite" />❄</text>
-      <text x="57.5%" y="-20" fill="#00D9FF" font-size="11" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.7s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.7s" repeatCount="indefinite" />❅</text>
-      <text x="60%" y="-20" fill="#FF6B9D" font-size="10" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.9s" repeatCount="indefinite" />❆</text>
-      <text x="62.5%" y="-20" fill="#9D50FF" font-size="12" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.4s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.4s" repeatCount="indefinite" />❄</text>
-      <text x="65%" y="-20" fill="#00D9FF" font-size="11" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.5s" repeatCount="indefinite" />❅</text>
-      <text x="67.5%" y="-20" fill="#FF6B9D" font-size="10" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.8s" repeatCount="indefinite" />❆</text>
-      <text x="70%" y="-20" fill="#9D50FF" font-size="12" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.6s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.6s" repeatCount="indefinite" />❄</text>
-      <text x="72.5%" y="-20" fill="#00D9FF" font-size="11" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.7s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.7s" repeatCount="indefinite" />❅</text>
-      <text x="75%" y="-20" fill="#FF6B9D" font-size="10" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.9s" repeatCount="indefinite" />❆</text>
-      <text x="77.5%" y="-20" fill="#9D50FF" font-size="12" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.4s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.4s" repeatCount="indefinite" />❄</text>
-      <text x="80%" y="-20" fill="#00D9FF" font-size="11" opacity="0.7"><animate attributeName="y" values="-20;170" dur="3.5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.9;0" dur="3.5s" repeatCount="indefinite" />❅</text>
-      <!-- Layer 3: Slow falling snowflakes (20 snowflakes) - Centered distribution (20%-80%) -->
-      <text x="20%" y="-30" fill="#00D9FF" font-size="9" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5s" repeatCount="indefinite" />❆</text>
-      <text x="23.15%" y="-30" fill="#FF6B9D" font-size="8" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.2s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.2s" repeatCount="indefinite" />❄</text>
-      <text x="26.3%" y="-30" fill="#9D50FF" font-size="10" opacity="0.5"><animate attributeName="y" values="-30;180" dur="4.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="4.8s" repeatCount="indefinite" />❅</text>
-      <text x="29.45%" y="-30" fill="#00D9FF" font-size="9" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.1s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.1s" repeatCount="indefinite" />❆</text>
-      <text x="32.6%" y="-30" fill="#FF6B9D" font-size="8" opacity="0.5"><animate attributeName="y" values="-30;180" dur="4.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="4.9s" repeatCount="indefinite" />❄</text>
-      <text x="35.75%" y="-30" fill="#9D50FF" font-size="10" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.3s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.3s" repeatCount="indefinite" />❅</text>
-      <text x="38.9%" y="-30" fill="#00D9FF" font-size="9" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5s" repeatCount="indefinite" />❆</text>
-      <text x="42.05%" y="-30" fill="#FF6B9D" font-size="8" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.2s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.2s" repeatCount="indefinite" />❄</text>
-      <text x="45.2%" y="-30" fill="#9D50FF" font-size="10" opacity="0.5"><animate attributeName="y" values="-30;180" dur="4.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="4.8s" repeatCount="indefinite" />❅</text>
-      <text x="48.35%" y="-30" fill="#00D9FF" font-size="9" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.1s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.1s" repeatCount="indefinite" />❆</text>
-      <text x="51.5%" y="-30" fill="#FF6B9D" font-size="8" opacity="0.5"><animate attributeName="y" values="-30;180" dur="4.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="4.9s" repeatCount="indefinite" />❄</text>
-      <text x="54.65%" y="-30" fill="#9D50FF" font-size="10" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.3s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.3s" repeatCount="indefinite" />❅</text>
-      <text x="57.8%" y="-30" fill="#00D9FF" font-size="9" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5s" repeatCount="indefinite" />❆</text>
-      <text x="60.95%" y="-30" fill="#FF6B9D" font-size="8" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.2s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.2s" repeatCount="indefinite" />❄</text>
-      <text x="64.1%" y="-30" fill="#9D50FF" font-size="10" opacity="0.5"><animate attributeName="y" values="-30;180" dur="4.8s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="4.8s" repeatCount="indefinite" />❅</text>
-      <text x="67.25%" y="-30" fill="#00D9FF" font-size="9" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.1s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.1s" repeatCount="indefinite" />❆</text>
-      <text x="70.4%" y="-30" fill="#FF6B9D" font-size="8" opacity="0.5"><animate attributeName="y" values="-30;180" dur="4.9s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="4.9s" repeatCount="indefinite" />❄</text>
-      <text x="73.55%" y="-30" fill="#9D50FF" font-size="10" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.3s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.3s" repeatCount="indefinite" />❅</text>
-      <text x="76.7%" y="-30" fill="#00D9FF" font-size="9" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5s" repeatCount="indefinite" />❆</text>
-      <text x="79.85%" y="-30" fill="#FF6B9D" font-size="8" opacity="0.5"><animate attributeName="y" values="-30;180" dur="5.2s" repeatCount="indefinite" /><animate attributeName="opacity" values="0.7;0" dur="5.2s" repeatCount="indefinite" />❄</text>
-    </svg>
-  </div>
-  
 </div>
+
+</div>
+<!-- End Professional Background Wrapper -->
