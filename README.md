@@ -6,10 +6,10 @@
   </h1>
   
   <!-- Clean Professional Badges -->
-  <p align="center" style="margin: 20px 0;">
-    <img src="https://img.shields.io/badge/AI%20Engineer-FF6B9D?style=flat-square&logo=artificial-intelligence&logoColor=white&labelColor=1a1a2e" alt="AI Engineer" />
-    <img src="https://img.shields.io/badge/Mobile%20Developer-00D9FF?style=flat-square&logo=mobile&logoColor=white&labelColor=1a1a2e" alt="Mobile Developer" />
-    <img src="https://img.shields.io/badge/Cross--Platform-9D50FF?style=flat-square&logo=code&logoColor=white&labelColor=1a1a2e" alt="Cross Platform" />
+  <p align="center" style="margin: 20px auto; max-width: 75%;">
+    <img src="https://img.shields.io/badge/AI%20Engineer-FF6B9D?style=flat-square&logo=artificial-intelligence&logoColor=white" alt="AI Engineer" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(255, 107, 157, 0.3); margin: 0 6px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
+    <img src="https://img.shields.io/badge/Mobile%20Developer-00D9FF?style=flat-square&logo=mobile&logoColor=white" alt="Mobile Developer" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 217, 255, 0.3); margin: 0 6px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
+    <img src="https://img.shields.io/badge/Cross--Platform-9D50FF?style=flat-square&logo=code&logoColor=white" alt="Cross Platform" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(157, 80, 255, 0.3); margin: 0 6px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
   </p>
   
   <!-- Simple Professional Tagline -->
@@ -20,24 +20,20 @@
   <!-- Professional Stats Badges -->
   <div align="center" style="margin: 30px 0;">
     <p align="center" style="margin: 10px 0;">
-      <img src="https://img.shields.io/badge/7%2B+Years-4A90E2?style=flat-square&logo=clock&logoColor=white&labelColor=1a1a2e" alt="Experience" />
-      <img src="https://img.shields.io/badge/20%2B+Apps-50C878?style=flat-square&logo=mobile&logoColor=white&labelColor=1a1a2e" alt="Apps" />
-      <img src="https://img.shields.io/badge/5M%2B+Downloads-FF6B9D?style=flat-square&logo=download&logoColor=white&labelColor=1a1a2e" alt="Downloads" />
+      <img src="https://img.shields.io/badge/7%2B+Years-4A90E2?style=flat-square&logo=clock&logoColor=white" alt="Experience" style="border-radius: 10px; box-shadow: 0 3px 10px rgba(74, 144, 226, 0.25); margin: 0 5px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
+      <img src="https://img.shields.io/badge/20%2B+Apps-50C878?style=flat-square&logo=mobile&logoColor=white" alt="Apps" style="border-radius: 10px; box-shadow: 0 3px 10px rgba(80, 200, 120, 0.25); margin: 0 5px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
+      <img src="https://img.shields.io/badge/5M%2B+Downloads-FF6B9D?style=flat-square&logo=download&logoColor=white" alt="Downloads" style="border-radius: 10px; box-shadow: 0 3px 10px rgba(255, 107, 157, 0.25); margin: 0 5px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
     </p>
     <p align="center" style="margin: 10px 0;">
-      <img src="https://img.shields.io/badge/4.5%2B+Rating-FFD700?style=flat-square&logo=star&logoColor=white&labelColor=1a1a2e" alt="Rating" />
-      <img src="https://img.shields.io/badge/AI+Powered-00D9FF?style=flat-square&logo=artificial-intelligence&logoColor=white&labelColor=1a1a2e" alt="AI" />
-      <img src="https://img.shields.io/badge/Cross+Platform-9D50FF?style=flat-square&logo=code&logoColor=white&labelColor=1a1a2e" alt="Cross Platform" />
+      <img src="https://img.shields.io/badge/4.5%2B+Rating-FFD700?style=flat-square&logo=star&logoColor=white" alt="Rating" style="border-radius: 10px; box-shadow: 0 3px 10px rgba(255, 215, 0, 0.25); margin: 0 5px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
+      <img src="https://img.shields.io/badge/AI+Powered-00D9FF?style=flat-square&logo=artificial-intelligence&logoColor=white" alt="AI" style="border-radius: 10px; box-shadow: 0 3px 10px rgba(0, 217, 255, 0.25); margin: 0 5px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
+      <img src="https://img.shields.io/badge/Cross+Platform-9D50FF?style=flat-square&logo=code&logoColor=white" alt="Cross Platform" style="border-radius: 10px; box-shadow: 0 3px 10px rgba(157, 80, 255, 0.25); margin: 0 5px; transition: transform 0.3s ease, box-shadow 0.3s ease;" />
     </p>
   </div>
   
 </div>
 
 ## 📝 About Me
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2000&pause=600&color=00D9FF&center=true&vCenter=true&width=400&lines=✨+About+Me" alt="About Me Title" />
-</div>
 
 <div align="center" style="color: #E0E0E0; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 20px; background: rgba(26, 26, 46, 0.5); border-radius: 10px; border: 1px solid rgba(0, 217, 255, 0.2);">
 
@@ -48,10 +44,6 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 </div>
 
 ### 🎯 Specializations
-
-<div align="center" style="margin: 15px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2000&pause=600&color=FF6B9D&center=true&vCenter=true&width=400&lines=🎯+Specializations" alt="Specializations Title" />
-</div>
 
 <div align="center" style="color: #E0E0E0; padding: 20px; background: rgba(26, 26, 46, 0.5); border-radius: 10px; border: 1px solid rgba(0, 217, 255, 0.2);">
 
@@ -75,164 +67,165 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 
 ## 🛠 Skill Sets
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2000&pause=600&color=FF6B9D&center=true&vCenter=true&width=600&lines=💻+Mobile+App+%26+AI+Technologies" alt="Skills Title" />
-</div>
-
 <div align="center">
 
 ### 📱 Native Mobile Development
 
-<div style="background: rgba(26, 26, 46, 0.2); padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #00D9FF;">
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #00D9FF; margin: 0 auto; background: rgba(26, 26, 46, 0.3); border-radius: 8px;">
+<div style="background: linear-gradient(135deg, rgba(26, 26, 46, 0.4) 0%, rgba(0, 217, 255, 0.1) 100%); padding: 20px; border-radius: 12px; margin: 20px auto; max-width: 75%; border: 2px solid rgba(0, 217, 255, 0.3); box-shadow: 0 8px 24px rgba(0, 217, 255, 0.15);">
+<table border="0" cellpadding="8" cellspacing="8" style="border-collapse: separate; margin: 0 auto; max-width: 75%; width: 100%;">
   <tr>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=1a1a2e" alt="iOS" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=1a1a2e" alt="Swift" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1a2e" alt="Android" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=1a1a2e" alt="Kotlin" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Objective--C-000000?style=flat-square&logo=apple&logoColor=white" alt="Objective-C" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
   </tr>
   <tr>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a2e" alt="Java" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Objective--C-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=1a1a2e" alt="Objective-C" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white&labelColor=1a1a2e" alt="Xcode" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=1a1a2e" alt="Android Studio" /></td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=1a1a2e" alt="UIKit" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/SwiftUI-147EFB?style=for-the-badge&logo=swift&logoColor=white&labelColor=1a1a2e" alt="SwiftUI" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1a2e" alt="Jetpack Compose" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=1a1a2e" alt="Coroutines" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/UIKit-000000?style=flat-square&logo=apple&logoColor=white" alt="UIKit" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/SwiftUI-147EFB?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white" alt="Jetpack Compose" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Coroutines-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Coroutines" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
   </tr>
 </table>
 </div>
 
 ### 🔄 Cross-Platform Development
 
-<div style="background: rgba(26, 26, 46, 0.2); padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #00D9FF;">
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #00D9FF; margin: 0 auto; background: rgba(26, 26, 46, 0.3); border-radius: 8px;">
+<div style="background: linear-gradient(135deg, rgba(26, 26, 46, 0.4) 0%, rgba(0, 217, 255, 0.1) 100%); padding: 20px; border-radius: 12px; margin: 20px auto; max-width: 75%; border: 2px solid rgba(0, 217, 255, 0.3); box-shadow: 0 8px 24px rgba(0, 217, 255, 0.15);">
+<table border="0" cellpadding="8" cellspacing="8" style="border-collapse: separate; margin: 0 auto; max-width: 75%; width: 100%;">
   <tr>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1a2e" alt="React Native" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a2e" alt="Flutter" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=1a1a2e" alt="Dart" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white&labelColor=1a1a2e" alt="Xamarin" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React Native" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white" alt="Xamarin" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Cordova-35434F?style=flat-square&logo=apache-cordova&logoColor=white" alt="Cordova" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
   </tr>
   <tr>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white&labelColor=1a1a2e" alt="Ionic" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=white&labelColor=1a1a2e" alt="Cordova" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white&labelColor=1a1a2e" alt="Expo" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a2e" alt="TypeScript" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"></td>
+    <td align="center" style="padding: 8px;"></td>
+    <td align="center" style="padding: 8px;"></td>
+    <td align="center" style="padding: 8px;"></td>
   </tr>
 </table>
 </div>
 
 ### 🤖 AI & Machine Learning
 
-<div style="background: rgba(26, 26, 46, 0.2); padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #FF6B9D;">
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #FF6B9D; margin: 0 auto; background: rgba(26, 26, 46, 0.3); border-radius: 8px;">
+<div style="background: linear-gradient(135deg, rgba(26, 26, 46, 0.4) 0%, rgba(255, 107, 157, 0.1) 100%); padding: 20px; border-radius: 12px; margin: 20px auto; max-width: 75%; border: 2px solid rgba(255, 107, 157, 0.3); box-shadow: 0 8px 24px rgba(255, 107, 157, 0.15);">
+<table border="0" cellpadding="8" cellspacing="8" style="border-collapse: separate; margin: 0 auto; max-width: 75%; width: 100%;">
   <tr>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/OpenAI-4CAF50?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" alt="OpenAI" /></td>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a2e" alt="TensorFlow" /></td>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a1a2e" alt="PyTorch" /></td>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/LangChain-00FF00?style=for-the-badge&logo=langchain&logoColor=white&labelColor=1a1a2e" alt="LangChain" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/OpenAI-4CAF50?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/LangChain-00FF00?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/RAG-FF5722?style=flat-square&logo=rag&logoColor=white" alt="RAG" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Vector%20DB-9C27B0?style=flat-square&logo=vectordb&logoColor=white" alt="Vector DB" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
   </tr>
   <tr>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/RAG-FF5722?style=for-the-badge&logo=rag&logoColor=white&labelColor=1a1a2e" alt="RAG" /></td>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Vector%20DB-9C27B0?style=for-the-badge&logo=vectordb&logoColor=white&labelColor=1a1a2e" alt="Vector DB" /></td>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" alt="Python" /></td>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a1a2e" alt="Scikit-Learn" /></td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a2e" alt="Pandas" /></td>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a2e" alt="NumPy" /></td>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a1a2e" alt="OpenCV" /></td>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=1a1a2e" alt="Hugging Face" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
   </tr>
 </table>
 </div>
 
 ### ⚙️ Backend & APIs
 
-<div style="background: rgba(26, 26, 46, 0.2); padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #9D50FF;">
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #9D50FF; margin: 0 auto; background: rgba(26, 26, 46, 0.3); border-radius: 8px;">
+<div style="background: linear-gradient(135deg, rgba(26, 26, 46, 0.4) 0%, rgba(157, 80, 255, 0.1) 100%); padding: 20px; border-radius: 12px; margin: 20px auto; max-width: 75%; border: 2px solid rgba(157, 80, 255, 0.3); box-shadow: 0 8px 24px rgba(157, 80, 255, 0.15);">
+<table border="0" cellpadding="8" cellspacing="8" style="border-collapse: separate; margin: 0 auto; max-width: 75%; width: 100%;">
   <tr>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a2e" alt="Node.js" /></td>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=1a1a2e" alt="Firebase" /></td>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=1a1a2e" alt="GraphQL" /></td>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/REST%20APIs-FF6B6B?style=for-the-badge&logo=rest&logoColor=white&labelColor=1a1a2e" alt="REST APIs" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/REST%20APIs-FF6B6B?style=flat-square&logo=rest&logoColor=white" alt="REST APIs" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
   </tr>
   <tr>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a2e" alt="MongoDB" /></td>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e" alt="PostgreSQL" /></td>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a2e" alt="Redis" /></td>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a2e" alt="Express" /></td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a2e" alt="MySQL" /></td>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1a1a2e" alt="SQLite" /></td>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white&labelColor=1a1a2e" alt="Realm" /></td>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=1a1a2e" alt="Socket.io" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white" alt="Realm" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
   </tr>
 </table>
 </div>
 
 ### 🛠️ Mobile Development Tools
 
-<div style="background: rgba(26, 26, 46, 0.2); padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #00D9FF;">
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #00D9FF; margin: 0 auto; background: rgba(26, 26, 46, 0.3); border-radius: 8px;">
+<div style="background: linear-gradient(135deg, rgba(26, 26, 46, 0.4) 0%, rgba(0, 217, 255, 0.1) 100%); padding: 20px; border-radius: 12px; margin: 20px auto; max-width: 75%; border: 2px solid rgba(0, 217, 255, 0.3); box-shadow: 0 8px 24px rgba(0, 217, 255, 0.15);">
+<table border="0" cellpadding="8" cellspacing="8" style="border-collapse: separate; margin: 0 auto; max-width: 75%; width: 100%;">
   <tr>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e" alt="Git" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white&labelColor=1a1a2e" alt="Bitbucket" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=1a1a2e" alt="Jenkins" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" alt="Bitbucket" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white" alt="Fastlane" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white" alt="CocoaPods" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
   </tr>
   <tr>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white&labelColor=1a1a2e" alt="Fastlane" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white&labelColor=1a1a2e" alt="CocoaPods" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white&labelColor=1a1a2e" alt="Gradle" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=1a1a2e" alt="Jira" /></td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=1a1a2e" alt="GitHub Actions" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white&labelColor=1a1a2e" alt="CircleCI" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1a1a2e" alt="Postman" /></td>
-    <td align="center" style="border: 1px solid #00D9FF; padding: 10px;"><img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white&labelColor=1a1a2e" alt="Insomnia" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" alt="CircleCI" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
   </tr>
 </table>
+</div>
 
 ### 🧪 Testing & Quality Assurance
 
-<div style="background: rgba(26, 26, 46, 0.2); padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #FF6B9D;">
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #FF6B9D; margin: 0 auto; background: rgba(26, 26, 46, 0.3); border-radius: 8px;">
+<div style="background: linear-gradient(135deg, rgba(26, 26, 46, 0.4) 0%, rgba(255, 107, 157, 0.1) 100%); padding: 20px; border-radius: 12px; margin: 20px auto; max-width: 75%; border: 2px solid rgba(255, 107, 157, 0.3); box-shadow: 0 8px 24px rgba(255, 107, 157, 0.15);">
+<table border="0" cellpadding="8" cellspacing="8" style="border-collapse: separate; margin: 0 auto; max-width: 75%; width: 100%;">
   <tr>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=1a1a2e" alt="Jest" /></td>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Detox-000000?style=for-the-badge&logo=detox&logoColor=white&labelColor=1a1a2e" alt="Detox" /></td>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=white&labelColor=1a1a2e" alt="Appium" /></td>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/XCUITest-000000?style=for-the-badge&logo=xcuitest&logoColor=white&labelColor=1a1a2e" alt="XCUITest" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Detox-000000?style=flat-square&logo=detox&logoColor=white" alt="Detox" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Appium-000000?style=flat-square&logo=appium&logoColor=white" alt="Appium" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/XCUITest-000000?style=flat-square&logo=xcuitest&logoColor=white" alt="XCUITest" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Espresso-000000?style=flat-square&logo=espresso&logoColor=white" alt="Espresso" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
   </tr>
   <tr>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Espresso-000000?style=for-the-badge&logo=espresso&logoColor=white&labelColor=1a1a2e" alt="Espresso" /></td>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=1a1a2e" alt="SonarQube" /></td>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white&labelColor=1a1a2e" alt="React Testing Library" /></td>
-    <td align="center" style="border: 1px solid #FF6B9D; padding: 10px;"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white&labelColor=1a1a2e" alt="Cypress" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=flat-square&logo=testing-library&logoColor=white" alt="React Testing Library" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"></td>
+    <td align="center" style="padding: 8px;"></td>
+    <td align="center" style="padding: 8px;"></td>
+    <td align="center" style="padding: 8px;"></td>
   </tr>
 </table>
 </div>
 
 ### ☁️ Cloud & DevOps
 
-<div style="background: rgba(26, 26, 46, 0.2); padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #9D50FF;">
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: 2px solid #9D50FF; margin: 0 auto; background: rgba(26, 26, 46, 0.3); border-radius: 8px;">
+<div style="background: linear-gradient(135deg, rgba(26, 26, 46, 0.4) 0%, rgba(157, 80, 255, 0.1) 100%); padding: 20px; border-radius: 12px; margin: 20px auto; max-width: 75%; border: 2px solid rgba(157, 80, 255, 0.3); box-shadow: 0 8px 24px rgba(157, 80, 255, 0.15);">
+<table border="0" cellpadding="8" cellspacing="8" style="border-collapse: separate; margin: 0 auto; max-width: 75%; width: 100%;">
   <tr>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a2e" alt="AWS" /></td>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1a1a2e" alt="Google Cloud" /></td>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e" alt="Docker" /></td>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1a2e" alt="Kubernetes" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
   </tr>
   <tr>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=1a1a2e" alt="Azure" /></td>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=1a1a2e" alt="Heroku" /></td>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" alt="Vercel" /></td>
-    <td align="center" style="border: 1px solid #9D50FF; padding: 10px;"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1a2e" alt="Netlify" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease;" /></td>
+    <td align="center" style="padding: 8px;"></td>
+    <td align="center" style="padding: 8px;"></td>
+    <td align="center" style="padding: 8px;"></td>
+    <td align="center" style="padding: 8px;"></td>
   </tr>
 </table>
 </div>
@@ -242,9 +235,7 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 
 ## ✨ Key Skills Summary
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2000&pause=600&color=9D50FF&center=true&vCenter=true&width=500&lines=✨+Key+Skills+Summary" alt="Skills Summary Title" />
-</div>
+
 
 <div align="center" style="color: #E0E0E0; padding: 20px; background: rgba(26, 26, 46, 0.5); border-radius: 10px; border: 1px solid rgba(0, 217, 255, 0.2);">
 
@@ -267,10 +258,6 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 
 ## 🚀 Projects
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2000&pause=600&color=00D9FF&center=true&vCenter=true&width=500&lines=🚀+Featured+Mobile+Applications" alt="Projects Title" />
-</div>
-
 <div style="background: rgba(26, 26, 46, 0.3); padding: 20px; border-radius: 10px; border: 1px solid rgba(0, 217, 255, 0.2);">
 
 | Project Name                  | Description                                                                 | Technologies | App Store |
@@ -285,10 +272,6 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 
 ### AI-Enhanced Mobile Projects
 
-<div align="center" style="margin: 15px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2000&pause=600&color=9D50FF&center=true&vCenter=true&width=500&lines=🤖+AI-Enhanced+Mobile+Projects" alt="AI Projects Title" />
-</div>
-
 <div style="background: rgba(26, 26, 46, 0.3); padding: 20px; border-radius: 10px; border: 1px solid rgba(0, 217, 255, 0.2);">
 
 | Project Name                  | Description                                                                 | Technologies | Status |
@@ -302,10 +285,6 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 </div>
 
 ### 🏆 Key Achievements
-
-<div align="center" style="margin: 15px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2000&pause=600&color=00D9FF&center=true&vCenter=true&width=400&lines=🏆+Key+Achievements" alt="Achievements Title" />
-</div>
 
 <div align="center" style="color: #E0E0E0; padding: 20px; background: rgba(26, 26, 46, 0.5); border-radius: 10px; border: 1px solid rgba(0, 217, 255, 0.2);">
 
@@ -328,7 +307,7 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 
 ## 📫 How to Reach Me
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 20px auto; max-width: 75%;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2000&pause=600&color=9D50FF&center=true&vCenter=true&width=400&lines=💬+Let's+Connect!" alt="Connect Title" />
 </div>
 
@@ -336,14 +315,14 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
   
   <!-- Quick Contact Buttons -->
   <p align="center" style="margin-bottom: 35px;">
-    <a href="mailto:onedream082498@gmail.com" style="text-decoration: none; margin: 0 8px;">
-      <img src="https://img.shields.io/badge/Email-FF6B9D?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email" />
+    <a href="mailto:onedream082498@gmail.com" style="text-decoration: none; margin: 0 8px; display: inline-block;">
+      <img src="https://img.shields.io/badge/Email-FF6B9D?style=flat-square&logo=gmail&logoColor=white" alt="Email" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(255, 107, 157, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;" />
     </a>
-    <a href="https://t.me/UrDream0824" style="text-decoration: none; margin: 0 8px;">
-      <img src="https://img.shields.io/badge/Telegram-00D9FF?style=flat-square&logo=telegram&logoColor=white&labelColor=1a1a2e" alt="Telegram" />
+    <a href="https://t.me/UrDream0824" style="text-decoration: none; margin: 0 8px; display: inline-block;">
+      <img src="https://img.shields.io/badge/Telegram-00D9FF?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 217, 255, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;" />
     </a>
-    <a href="https://wa.me/13053391578" style="text-decoration: none; margin: 0 8px;">
-      <img src="https://img.shields.io/badge/WhatsApp-9D50FF?style=flat-square&logo=whatsapp&logoColor=white&labelColor=1a1a2e" alt="WhatsApp" />
+    <a href="https://wa.me/13053391578" style="text-decoration: none; margin: 0 8px; display: inline-block;">
+      <img src="https://img.shields.io/badge/WhatsApp-9D50FF?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(157, 80, 255, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;" />
     </a>
   </p>
   
@@ -352,10 +331,6 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 ---
 
 ## ⚡ Professional Highlights
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2000&pause=600&color=FF6B9D&center=true&vCenter=true&width=500&lines=⚡+Professional+Highlights" alt="Highlights Title" />
-</div>
 
 <div align="center" style="color: #E0E0E0; padding: 20px; background: rgba(26, 26, 46, 0.5); border-radius: 10px; border: 1px solid rgba(0, 217, 255, 0.2);">
 
