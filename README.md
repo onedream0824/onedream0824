@@ -1,11 +1,3 @@
-<!-- Professional Background Wrapper -->
-<div style="background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 50%, #16213e 100%); padding: 30px 20px; border-radius: 15px; box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);">
-
-<!-- Modern Gradient Top Bar -->
-<div align="center" style="margin-bottom: 40px;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&section=header&text=&fontSize=0&customColorList=FF6B9D,00D9FF,9D50FF" alt="Top Gradient Bar" />
-</div>
-
 <div align="center">
   
   <!-- Professional Header with Animated Effect - One Line -->
@@ -26,29 +18,19 @@
   </p>
   
   <!-- Professional Stats Badges -->
-  <div align="center" style="margin: 40px 0;">
-    <p align="center" style="margin: 15px 0;">
-      <img src="https://img.shields.io/badge/7%2B+Years+Experience-FF6B9D?style=for-the-badge&logo=clock&logoColor=white&labelColor=1a1a2e" alt="Experience" />
-      <img src="https://img.shields.io/badge/20%2B+Mobile+Apps-00D9FF?style=for-the-badge&logo=mobile&logoColor=white&labelColor=1a1a2e" alt="Apps" />
-      <img src="https://img.shields.io/badge/5M%2B+Downloads-9D50FF?style=for-the-badge&logo=download&logoColor=white&labelColor=1a1a2e" alt="Downloads" />
+  <div align="center" style="margin: 30px 0;">
+    <p align="center" style="margin: 10px 0;">
+      <img src="https://img.shields.io/badge/7%2B+Years-4A90E2?style=flat-square&logo=clock&logoColor=white&labelColor=1a1a2e" alt="Experience" />
+      <img src="https://img.shields.io/badge/20%2B+Apps-50C878?style=flat-square&logo=mobile&logoColor=white&labelColor=1a1a2e" alt="Apps" />
+      <img src="https://img.shields.io/badge/5M%2B+Downloads-FF6B9D?style=flat-square&logo=download&logoColor=white&labelColor=1a1a2e" alt="Downloads" />
     </p>
-    <p align="center" style="margin: 15px 0;">
-      <img src="https://img.shields.io/badge/4.5%2B+Star+Rating-FF6B9D?style=for-the-badge&logo=star&logoColor=white&labelColor=1a1a2e" alt="Rating" />
-      <img src="https://img.shields.io/badge/AI+Powered-00D9FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white&labelColor=1a1a2e" alt="AI" />
-      <img src="https://img.shields.io/badge/Cross+Platform-9D50FF?style=for-the-badge&logo=code&logoColor=white&labelColor=1a1a2e" alt="Cross Platform" />
+    <p align="center" style="margin: 10px 0;">
+      <img src="https://img.shields.io/badge/4.5%2B+Rating-FFD700?style=flat-square&logo=star&logoColor=white&labelColor=1a1a2e" alt="Rating" />
+      <img src="https://img.shields.io/badge/AI+Powered-00D9FF?style=flat-square&logo=artificial-intelligence&logoColor=white&labelColor=1a1a2e" alt="AI" />
+      <img src="https://img.shields.io/badge/Cross+Platform-9D50FF?style=flat-square&logo=code&logoColor=white&labelColor=1a1a2e" alt="Cross Platform" />
     </p>
   </div>
   
-</div>
-
-<!-- Modern Gradient Bottom Bar -->
-<div align="center" style="margin-top: 40px; margin-bottom: 20px;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&section=header&text=&fontSize=0&customColorList=FF6B9D,00D9FF,9D50FF" alt="Bottom Gradient Bar" />
-</div>
-
-<!-- Modern Section Divider -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&text=&fontSize=0&customColorList=FF6B9D,00D9FF" alt="Divider" />
 </div>
 
 ## 📝 About Me
@@ -86,9 +68,9 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 
 </div>
 
-<!-- Modern Section Divider -->
+<!-- Clean Section Divider -->
 <div align="center" style="margin: 30px 0;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&text=&fontSize=0&customColorList=FF6B9D,00D9FF" alt="Divider" />
+  <hr style="border: none; border-top: 1px solid #00D9FF; width: 50%; opacity: 0.2; margin: 0 auto;" />
 </div>
 
 ## 🛠 Skill Sets
@@ -278,9 +260,9 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 
 </div>
 
-<!-- Modern Section Divider -->
+<!-- Clean Section Divider -->
 <div align="center" style="margin: 30px 0;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&text=&fontSize=0&customColorList=FF6B9D,00D9FF" alt="Divider" />
+  <hr style="border: none; border-top: 1px solid #00D9FF; width: 50%; opacity: 0.2; margin: 0 auto;" />
 </div>
 
 ## 🚀 Projects
@@ -339,9 +321,9 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 
 </div>
 
-<!-- Modern Section Divider -->
+<!-- Clean Section Divider -->
 <div align="center" style="margin: 30px 0;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&text=&fontSize=0&customColorList=FF6B9D,00D9FF" alt="Divider" />
+  <hr style="border: none; border-top: 1px solid #00D9FF; width: 50%; opacity: 0.2; margin: 0 auto;" />
 </div>
 
 ## 📫 How to Reach Me
@@ -350,30 +332,20 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2000&pause=600&color=9D50FF&center=true&vCenter=true&width=400&lines=💬+Let's+Connect!" alt="Connect Title" />
 </div>
 
-<div align="center">
+<div align="center" style="max-width: 900px; margin: 0 auto; padding: 0 20px;">
   
-  <p align="center">
-    <a href="mailto:onedream082498@gmail.com">
+  <!-- Quick Contact Buttons -->
+  <p align="center" style="margin-bottom: 35px;">
+    <a href="mailto:onedream082498@gmail.com" style="text-decoration: none; margin: 0 8px;">
       <img src="https://img.shields.io/badge/Email-FF6B9D?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email" />
     </a>
-    <a href="https://t.me/UrDream0824">
+    <a href="https://t.me/UrDream0824" style="text-decoration: none; margin: 0 8px;">
       <img src="https://img.shields.io/badge/Telegram-00D9FF?style=flat-square&logo=telegram&logoColor=white&labelColor=1a1a2e" alt="Telegram" />
     </a>
-    <a href="https://wa.me/13053391578">
+    <a href="https://wa.me/13053391578" style="text-decoration: none; margin: 0 8px;">
       <img src="https://img.shields.io/badge/WhatsApp-9D50FF?style=flat-square&logo=whatsapp&logoColor=white&labelColor=1a1a2e" alt="WhatsApp" />
     </a>
   </p>
-  
-  <div style="background: rgba(26, 26, 46, 0.5); padding: 25px; border-radius: 10px; border: 1px solid rgba(0, 217, 255, 0.2); max-width: 600px; margin: 20px auto;">
-    <p align="center" style="color: #E0E0E0; line-height: 2.5; margin: 0;">
-      <strong style="color: #FF6B9D; font-size: 1.1em;">📧 Email:</strong><br/>
-      <a href="mailto:onedream082498@gmail.com" style="color: #00D9FF; text-decoration: none; font-size: 1.05em;">onedream082498@gmail.com</a><br/><br/>
-      <strong style="color: #00D9FF; font-size: 1.1em;">💬 Telegram:</strong><br/>
-      <a href="https://t.me/UrDream0824" style="color: #9D50FF; text-decoration: none; font-size: 1.05em;">@UrDream0824</a><br/><br/>
-      <strong style="color: #9D50FF; font-size: 1.1em;">📱 WhatsApp:</strong><br/>
-      <a href="https://wa.me/13053391578" style="color: #FF6B9D; text-decoration: none; font-size: 1.05em;">+1 305 339 1578</a>
-    </p>
-  </div>
   
 </div>
 
@@ -400,9 +372,9 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
 
 </div>
 
-<!-- Modern Section Divider -->
+<!-- Clean Section Divider -->
 <div align="center" style="margin: 30px 0;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&text=&fontSize=0&customColorList=FF6B9D,00D9FF" alt="Divider" />
+  <hr style="border: none; border-top: 1px solid #00D9FF; width: 50%; opacity: 0.2; margin: 0 auto;" />
 </div>
 
 <div align="center">
@@ -416,6 +388,3 @@ My expertise spans the entire mobile development lifecycle with a focus on integ
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" />
   
 </div>
-
-</div>
-<!-- End Professional Background Wrapper -->
