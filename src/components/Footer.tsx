@@ -1,48 +1,52 @@
-import React from 'react';
-import { Github, Send, Mail } from 'lucide-react';
+import { Row, IconButton, SmartLink, Text } from "@once-ui-system/core";
+import { person, social } from "@/resources";
+import styles from "./Footer.module.scss";
 
-const Footer: React.FC = () => {
+export const Footer = () => {
+  const currentYear = new Date().getFullYear();
+
   return (
-    <footer className="bg-white dark:bg-gray-900 shadow-inner py-8">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex flex-col md:flex-row justify-between items-center">
-          <div className="mb-4 md:mb-0">
-            <p className="text-gray-600 dark:text-gray-400">
-              &copy; {new Date().getFullYear()} Lê Văn Hùng. All rights reserved.
-            </p>
-          </div>
-          
-          <div className="flex space-x-6">
-            <a 
-              href="https://github.com/onedream0824" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="text-gray-600 dark:text-gray-400 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-200"
-              aria-label="GitHub"
-            >
-              <Github size={24} />
-            </a>
-            <a 
-              href="https://t.me/UrDream0824"
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="text-gray-600 dark:text-gray-400 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-200"
-              aria-label="Telegram"
-            >
-              <Send size={24} />
-            </a>
-            <a 
-              href="mailto:onedream082498@gmail.com" 
-              className="text-gray-600 dark:text-gray-400 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-200"
-              aria-label="Email"
-            >
-              <Mail size={24} />
-            </a>
-          </div>
-        </div>
-      </div>
-    </footer>
+    <Row as="footer" fillWidth padding="8" horizontal="center" s={{ direction: "column" }}>
+      <Row
+        className={styles.mobile}
+        maxWidth="m"
+        paddingY="8"
+        paddingX="16"
+        gap="16"
+        horizontal="between"
+        vertical="center"
+        s={{
+          direction: "column",
+          horizontal: "center",
+          align: "center",
+        }}
+      >
+        <Text variant="body-default-s" onBackground="neutral-strong">
+          <Text onBackground="neutral-weak">© {currentYear} /</Text>
+          <Text paddingX="4">{person.name}</Text>
+          <Text onBackground="neutral-weak">
+            {/* Usage of this template requires attribution. Please don't remove the link to Once UI unless you have a Pro license. */}
+            / Build your portfolio with{" "}
+            <SmartLink href="https://once-ui.com/products/magic-portfolio">Once UI</SmartLink>
+          </Text>
+        </Text>
+        <Row gap="16">
+          {social.map(
+            (item) =>
+              item.link && (
+                <IconButton
+                  key={item.name}
+                  href={item.link}
+                  icon={item.icon}
+                  tooltip={item.name}
+                  size="s"
+                  variant="ghost"
+                />
+              ),
+          )}
+        </Row>
+      </Row>
+      <Row height="80" hide s={{ hide: false }} />
+    </Row>
   );
 };
-
-export default Footer;
