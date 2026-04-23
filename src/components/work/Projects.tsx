@@ -36,6 +36,7 @@ export function Projects({ range, exclude }: ProjectsProps) {
           content={post.content}
           role={post.metadata.team?.[0]?.role || ""}
           skillsets={post.metadata.skillsets || []}
+          autoplayOffsetMs={(index % 6) * 1100}
           avatars={post.metadata.team?.map((member) => ({ src: member.avatar })) || []}
         />
       ))}

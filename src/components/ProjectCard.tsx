@@ -1,5 +1,7 @@
 "use client";
 
+import { useEffect, useState } from "react";
+
 import {
   AvatarGroup,
   Card,
@@ -22,6 +24,7 @@ interface ProjectCardProps {
   description: string;
   role?: string;
   skillsets?: string[];
+  autoplayOffsetMs?: number;
   avatars: { src: string }[];
 }
 
@@ -34,8 +37,17 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
   description,
   role,
   skillsets = [],
+  autoplayOffsetMs = 0,
   avatars,
 }) => {
+  const [autoplayReady, setAutoplayReady] = useState(false);
+
+  useEffect(() => {
+    if (images.length <= 1) return;
+    const timeout = setTimeout(() => setAutoplayReady(true), autoplayOffsetMs);
+    return () => clearTimeout(timeout);
+  }, [images.length, autoplayOffsetMs]);
+
   return (
     <Card
       fillWidth
@@ -43,7 +55,7 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
       background="surface"
       radius="l-4"
       padding="12"
-      transition="micro-medium"
+      transition="macro-medium"
     >
       <Flex s={{ direction: "column" }} m={{ direction: "row" }} gap="20" fillWidth>
         {images?.length > 0 && (
@@ -53,8 +65,8 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
               controls={images.length > 1}
               indicator={images.length > 1 ? "line" : false}
               play={{
-                auto: images.length > 1,
-                interval: 3500,
+                auto: images.length > 1 && autoplayReady,
+                interval: 7000,
                 controls: images.length > 1,
                 progress: false,
               }}

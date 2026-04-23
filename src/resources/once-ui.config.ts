@@ -81,7 +81,7 @@ const style: StyleConfig = {
   solidStyle: "flat", // flat | plastic
   border: "rounded", // rounded | playful | conservative | sharp
   surface: "translucent", // filled | translucent
-  transition: "all", // all | micro | macro
+  transition: "macro", // all | micro | macro
   scaling: "100", // 90 | 95 | 100 | 105 | 110
 };
 
