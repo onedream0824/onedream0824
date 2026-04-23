@@ -3,11 +3,13 @@
 import {
   AvatarGroup,
   Card,
+  Carousel,
   Column,
   Flex,
   Heading,
-  Media,
+  Row,
   SmartLink,
+  Tag,
   Text,
 } from "@once-ui-system/core";
 
@@ -37,47 +39,59 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
   return (
     <Card
       fillWidth
-      border="neutral-alpha-weak"
+      border="neutral-alpha-medium"
       background="surface"
       radius="l-4"
-      padding="8"
+      padding="12"
       transition="micro-medium"
     >
-      <Flex s={{ direction: "column" }} m={{ direction: "row" }} gap="24" fillWidth>
+      <Flex s={{ direction: "column" }} m={{ direction: "row" }} gap="20" fillWidth>
         {images?.length > 0 && (
           <Flex flex={6}>
-            <Media
+            <Carousel
               priority={priority}
-              sizes="(max-width: 768px) 100vw, 560px"
+              controls={images.length > 1}
+              indicator={images.length > 1 ? "line" : false}
+              play={{
+                auto: images.length > 1,
+                interval: 3500,
+                controls: images.length > 1,
+                progress: false,
+              }}
+              items={images.map((image) => ({
+                slide: image,
+                alt: title,
+              }))}
+              sizes="(max-width: 768px) 100vw, 680px"
               aspectRatio="16 / 9"
               radius="l"
               border="neutral-alpha-weak"
-              alt={title}
-              src={images[0]}
             />
           </Flex>
         )}
-        <Column flex={4} gap="16" paddingX="s" paddingY="xs" vertical="center">
+        <Column flex={4} gap="12" paddingX="xs" paddingY="xs" vertical="center">
           {title && (
-            <Heading as="h2" wrap="balance" variant="heading-strong-l">
+            <Heading as="h2" wrap="balance" variant="heading-strong-m">
               {title}
             </Heading>
           )}
-          {avatars?.length > 0 && <AvatarGroup avatars={avatars} size="m" reverse />}
-          {role?.trim() && (
-            <Text variant="label-default-s" onBackground="brand-weak">
-              Role: {role}
-            </Text>
-          )}
+          <Row gap="8" wrap vertical="center">
+            {avatars?.length > 0 && <AvatarGroup avatars={avatars} size="m" reverse />}
+            {role?.trim() && <Tag size="l">Role: {role}</Tag>}
+          </Row>
           {description?.trim() && (
             <Text wrap="balance" variant="body-default-s" onBackground="neutral-weak">
               {description}
             </Text>
           )}
           {skillsets.length > 0 && (
-            <Text wrap="balance" variant="label-default-s" onBackground="neutral-weak">
-              Skillsets: {skillsets.join(" | ")}
-            </Text>
+            <Row wrap gap="8" paddingTop="4">
+              {skillsets.slice(0, 8).map((skillset) => (
+                <Tag key={`${title}-${skillset}`} size="l">
+                  {skillset}
+                </Tag>
+              ))}
+            </Row>
           )}
           {content?.trim() && (
             <SmartLink

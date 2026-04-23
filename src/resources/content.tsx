@@ -5,7 +5,7 @@ const person: Person = {
   firstName: "Vuong Phi",
   lastName: "Hung",
   name: `Vuong Phi Hung`,
-  role: "Senior Mobile & AI Engineer",
+  role: "Senior Mobile, Web & AI Engineer",
   avatar: "/images/avatar.png",
   email: "onedream082498@gmail.com",
   location: "Asia/Ho_Chi_Minh",
@@ -76,7 +76,7 @@ const home: Home = {
 const about: About = {
   path: "/about",
   label: "About",
-  title: `About – ${person.name}`,
+  title: `About - ${person.name}`,
   description: `Meet ${person.name}, ${person.role} from ${person.location}`,
   tableOfContent: {
     display: true,
@@ -94,7 +94,7 @@ const about: About = {
     title: "Introduction",
     description: (
       <>
-        Hung is a Vietnam-based Senior Full-Stack Engineer with 9+ years of experience building intelligent, scalable mobile and web applications. Specialized in AI/ML integration, RAG systems, and production LLM workflows-with a mobile-first focus using React Native, Flutter, Swift, and Kotlin.
+        Hung is a Vietnam-based Senior Full-Stack Engineer with 9+ years of experience building intelligent, scalable mobile and web applications. He specializes in AI/ML integration, RAG systems, and production LLM workflows, delivering both mobile-first products and modern web platforms using React Native, Flutter, Swift, Kotlin, React, and Next.js.
       </>
     ),
   },
@@ -115,6 +115,9 @@ const about: About = {
           </>,
           <>
             Optimized inference latency by 40% through query caching, model quantization, and edge deployment strategies on AWS Lambda@Edge.
+          </>,
+          <>
+            Delivered internal and client-facing web dashboards with React and Next.js for analytics, admin workflows, and AI model monitoring.
           </>,
           <>
             Led adoption of AI guardrails: output validation, prompt logging, and monitoring dashboards to ensure reliability in production LLM features.
@@ -150,6 +153,9 @@ const about: About = {
             Implemented real-time data sync with backend APIs, ensuring seamless user experience across mobile and web platforms.
           </>,
           <>
+            Built secure web portals for operations teams, including role-based access, audit trails, and real-time reporting interfaces.
+          </>,
+          <>
             Collaborated with UX researchers to design AI-transparent interfaces-clearly communicating AI capabilities and limitations to end users.
           </>,
           <>
@@ -178,6 +184,9 @@ const about: About = {
           </>,
           <>
             Automated CI/CD pipelines with GitHub Actions + Docker, cutting deployment time by 40% and improving release reliability.
+          </>,
+          <>
+            Developed and maintained responsive web applications with React and Next.js, integrating GraphQL/REST APIs for high-traffic business workflows.
           </>,
           <>
             Early adoption of AI features: integrated OpenAI API for content summarization and sentiment analysis in enterprise SaaS tools.
@@ -260,6 +269,32 @@ const about: About = {
           {
             src: "/Ads/ad-7.jpg",
             alt: "Project image",
+            width: 16,
+            height: 9,
+          },
+        ],
+      },
+      {
+        title: "Web Development",
+        description: (
+          <>Building fast, scalable web applications and internal platforms with modern frontend architecture and API-driven backends.</>
+        ),
+        tags: [
+          { name: "React" },
+          { name: "Next.js" },
+          { name: "Vue.js" },
+          { name: "Angular.js" },
+          { name: "Node.js" },
+          { name: "TypeScript" },
+          { name: "JavaScript" },
+          { name: "Tailwind CSS" },
+          { name: "GraphQL" },
+          { name: "REST APIs" },
+        ],
+        images: [
+          {
+            src: "/Ads/ad-10.jpg",
+            alt: "Web development project preview",
             width: 16,
             height: 9,
           },
@@ -351,14 +386,14 @@ const blog: Blog = {
 const work: Work = {
   path: "/work",
   label: "Work",
-  title: `Projects – ${person.name}`,
+  title: `Projects - ${person.name}`,
   description: `Design and dev projects by ${person.name}`,
 };
 
 const gallery: Gallery = {
   path: "/gallery",
   label: "Gallery",
-  title: `Photo gallery – ${person.name}`,
+  title: `Photo gallery - ${person.name}`,
   description: `A photo collection by ${person.name}`,
   images: [
     {
