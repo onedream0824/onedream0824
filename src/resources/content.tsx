@@ -2,14 +2,14 @@ import { About, Blog, Gallery, Home, Newsletter, Person, Social, Work } from "@/
 import { Line, Row, Text } from "@once-ui-system/core";
 
 const person: Person = {
-  firstName: "Vuong Phi",
-  lastName: "Hung",
-  name: `Vuong Phi Hung`,
-  role: "Senior Mobile, Web & AI Engineer",
-  avatar: "/images/avatar.png",
-  email: "onedream082498@gmail.com",
-  location: "Asia/Ho_Chi_Minh",
-  languages: ["English", "Vietnamese"],
+  firstName: "Kee",
+  lastName: "Ray",
+  name: `Kee Ray`,
+  role: "Senior Software Engineer",
+  avatar: "/images/avatar.jpg",
+  email: "ala.kee666@outlook.com",
+  location: "America/Chicago",
+  languages: ["English"],
 };
 
 const newsletter: Newsletter = {
@@ -20,27 +20,21 @@ const newsletter: Newsletter = {
 
 const social: Social = [
   {
-    name: "GitHub",
-    icon: "github",
-    link: "https://github.com/onedream0824",
+    name: "Email",
+    icon: "email",
+    link: `mailto:${person.email}`,
     essential: true,
   },
   {
-    name: "Telegram",
-    icon: "telegram",
-    link: "https://t.me/UrDream0824",
+    name: "LinkedIn",
+    icon: "linkedin",
+    link: "https://www.linkedin.com/in/kee-ray-602b7a408/",
     essential: true,
   },
   {
     name: "WhatsApp",
     icon: "whatsapp",
-    link: "https://wa.me/13053391578",
-    essential: true,
-  },
-  {
-    name: "Email",
-    icon: "email",
-    link: `mailto:${person.email}`,
+    link: "https://wa.me/17317417559",
     essential: true,
   },
 ];
@@ -51,7 +45,7 @@ const home: Home = {
   label: "Home",
   title: `${person.name}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Building high-impact mobile products powered by AI</>,
+  headline: <>Full stack platforms, distributed systems, and AI-integrated architecture</>,
   featured: {
     display: true,
     title: (
@@ -59,16 +53,17 @@ const home: Home = {
         <strong className="ml-4">Featured Case Study</strong>{" "}
         <Line background="brand-alpha-strong" vert height="20" />
         <Text marginRight="4" onBackground="brand-medium">
-          MedFuel
+          Autonurture
         </Text>
       </Row>
     ),
-    href: "/work/building-once-ui-a-customizable-design-system",
+    href: "/work/autonurture-ai-outreach-platform",
   },
   subline: (
     <>
-      I design and ship scalable iOS, Android, and cross-platform applications with modern AI features,
-      from intelligent assistants to production-grade ML workflows.
+      8+ years shipping scalable RESTful APIs, event-driven backends, and LLM evaluation tooling in
+      TypeScript, Node.js, Python, and React—across cloud-native AWS with CI/CD automation and structured
+      output validation.
     </>
   ),
 };
@@ -77,7 +72,7 @@ const about: About = {
   path: "/about",
   label: "About",
   title: `About - ${person.name}`,
-  description: `Meet ${person.name}, ${person.role} from ${person.location}`,
+  description: `Meet ${person.name}, ${person.role} from McKenzie, TN, USA`,
   tableOfContent: {
     display: true,
     subItems: false,
@@ -86,15 +81,21 @@ const about: About = {
     display: true,
   },
   calendar: {
-    display: true,
-    link: "https://calendly.com/onedream082498/30min",
+    display: false,
+    link: "",
   },
   intro: {
     display: true,
     title: "Introduction",
     description: (
       <>
-        Hung is a Vietnam-based Senior Full-Stack Engineer with 9+ years of experience building intelligent, scalable mobile and web applications. He specializes in AI/ML integration, RAG systems, and production LLM workflows, delivering both mobile-first products and modern web platforms using React Native, Flutter, Swift, Kotlin, React, and Next.js.
+        Kee is a McKenzie, TN–based senior software engineer with 8+ years across full stack development,
+        distributed systems, and AI-integrated platform architecture using TypeScript, Node.js, Python,
+        and React. He delivers scalable RESTful APIs, event-driven backends, and LLM evaluation tooling
+        across cloud-native AWS environments with CI/CD automation and structured output validation. A
+        proven technical leader, he drives Agile delivery, automated testing pipelines, and cross-team
+        alignment in production-grade systems. Bachelor-educated and positioned to contribute end-to-end
+        across frontend, backend, and AI layers for high-impact software engineering work.
       </>
     ),
   },
@@ -103,99 +104,108 @@ const about: About = {
     title: "Work Experience",
     experiences: [
       {
-        company: "ScaleTech Solutions",
-        timeframe: "2024 - 2025",
-        role: "Senior AI Full-Stack Developer",
+        company: "BuzzClan LLC",
+        timeframe: "Jan 2023 – Feb 2026",
+        role: "Senior Software Engineer",
         achievements: [
           <>
-            Architected AI-powered mobile backends using FastAPI and Node.js, integrating RAG pipelines (Pinecone + OpenAI) to enable context-aware chat features in React Native apps-reducing support tickets by 35%.
+            Architected TypeScript and React full stack platform with provider abstraction SDK, shielding 4
+            internal teams across 3 microservices from LLM API volatility.
           </>,
           <>
-            Designed and deployed autonomous AI agents with LangGraph for workflow automation, handling document processing and real-time data sync across mobile/web clients.
+            Engineered RAG-backed retrieval pipeline with PII redaction via structured output validation,
+            cutting compliance incidents by 30% in async production workflows.
           </>,
           <>
-            Optimized inference latency by 40% through query caching, model quantization, and edge deployment strategies on AWS Lambda@Edge.
+            Mentored 3 engineers through code reviews and design sessions, aligning team on RESTful API
+            contracts and accelerating onboarding by 50%.
           </>,
-          <>
-            Delivered internal and client-facing web dashboards with React and Next.js for analytics, admin workflows, and AI model monitoring.
-          </>,
-          <>
-            Led adoption of AI guardrails: output validation, prompt logging, and monitoring dashboards to ensure reliability in production LLM features.
-          </>,
-          <>
-            Mentored 3 engineers on AI integration patterns, mobile performance optimization, and secure API design.
-          </>
         ],
         images: [
           {
             src: "/Ads/ad-2.jpg",
-            alt: "MedFuel mobile app preview",
+            alt: "Engineering work preview",
             width: 16,
             height: 9,
           },
         ],
       },
       {
-        company: "CyStack",
-        timeframe: "2022 - 2024",
-        role: "Senior Mobile & AI Developer",
+        company: "Kenility",
+        timeframe: "Jun 2020 – Dec 2022",
+        role: "Software Engineer",
         achievements: [
           <>
-            Led end-to-end development of a React Native app with embedded AI features: personalized threat alerts using fine-tuned NLP models and RAG-based knowledge retrieval.
+            Designed event-driven Node.js backend using AWS SQS, decoupling 6 workflows and reducing processing
+            latency from 55ms to 36ms.
           </>,
           <>
-            Integrated voice AI agents (Vapi + Retell) for hands-free user interactions, improving accessibility and engagement by 28%.
+            Instrumented CloudWatch observability and distributed tracing, cutting mean-time-to-detect P1
+            incidents from 22 minutes to 6 minutes.
           </>,
           <>
-            Boosted mobile app performance by 25% via code-splitting, memoization, and optimized React Native bridge communication.
+            Streamlined GitHub Actions CI/CD pipelines with automated testing gates, reducing deployment time
+            from 40 minutes to 9 minutes across 3 services.
           </>,
-          <>
-            Implemented real-time data sync with backend APIs, ensuring seamless user experience across mobile and web platforms.
-          </>,
-          <>
-            Built secure web portals for operations teams, including role-based access, audit trails, and real-time reporting interfaces.
-          </>,
-          <>
-            Collaborated with UX researchers to design AI-transparent interfaces-clearly communicating AI capabilities and limitations to end users.
-          </>,
-          <>
-            Implemented scalable state management with Redux Toolkit + React Query, reducing data-sync bugs by 30% across offline/online modes.
-          </>
         ],
         images: [
           {
             src: "/Ads/ad-3.jpg",
-            alt: "YouOne mobile app preview",
+            alt: "Platform and pipelines preview",
             width: 16,
             height: 9,
           },
         ],
       },
       {
-        company: "SCS Solutions",
-        timeframe: "2015 - 2022",
-        role: "Frontend Developer -> Full-Stack Engineer",
+        company: "Five Jars",
+        timeframe: "Mar 2018 – Apr 2020",
+        role: "Software Engineer",
         achievements: [
           <>
-            Developed modular, reusable component libraries for React/React Native, accelerating MVP delivery by 40% for startup clients.
+            Refactored RESTful API contracts in TypeScript and Node.js, consolidating 12 legacy endpoints and
+            improving reliability across 2 integrated services.
           </>,
           <>
-            Built RESTful/GraphQL APIs with Python (Django/FastAPI) and Node.js, integrating with PostgreSQL/MongoDB for real-time dashboards.
+            Validated Jest unit-test suites to 75%+ coverage, strengthening CI pipeline confidence ahead of
+            bi-weekly production releases.
           </>,
           <>
-            Automated CI/CD pipelines with GitHub Actions + Docker, cutting deployment time by 40% and improving release reliability.
+            Implemented rule-based dialog management and versioned configuration pipelines for template-driven
+            response systems across 2 product lines.
           </>,
-          <>
-            Developed and maintained responsive web applications with React and Next.js, integrating GraphQL/REST APIs for high-traffic business workflows.
-          </>,
-          <>
-            Early adoption of AI features: integrated OpenAI API for content summarization and sentiment analysis in enterprise SaaS tools.
-          </>
         ],
         images: [
           {
             src: "/Ads/ad-4.jpg",
-            alt: "Event app mobile preview",
+            alt: "API and configuration work preview",
+            width: 16,
+            height: 9,
+          },
+        ],
+      },
+      {
+        company: "Bilions",
+        timeframe: "May 2016 – Jan 2018",
+        role: "Junior Software Engineer",
+        achievements: [
+          <>
+            Built Java Spring Boot backend services and SQL schemas supporting 4 enterprise workflows across 2
+            internal platform products.
+          </>,
+          <>
+            Unified RESTful API integrations enabling end-to-end data flow between React frontend and backend
+            services for cross-functional stakeholders.
+          </>,
+          <>
+            Participated in Agile sprint planning and requirements-gathering sessions, reducing scope-change
+            cycles across quarterly delivery milestones.
+          </>,
+        ],
+        images: [
+          {
+            src: "/Ads/ad-5.jpg",
+            alt: "Enterprise services preview",
             width: 16,
             height: 9,
           },
@@ -208,15 +218,13 @@ const about: About = {
     title: "Studies",
     institutions: [
       {
-        name: "Aprotrain Aptech",
-        description: 
+        name: "Lipscomb University",
+        description: (
           <>
-            <>AWS Certified Developer - Associate</>,
-            <>DeepLearning.AI: ChatGPT Prompt Engineering for Developers</>,
-            <>Meta: React Native Specialization (Coursera)</>
+            Bachelor of Computer Applications (Computer Engineering), 2011–2015.
           </>
-
-      }
+        ),
+      },
     ],
   },
   technical: {
@@ -224,149 +232,103 @@ const about: About = {
     title: "Technical skills",
     skills: [
       {
-        title: "Native Mobile Development",
+        title: "Languages and frameworks",
         description: (
-          <>Building robust native applications for iOS and Android with a focus on performance and maintainability.</>
+          <>Core languages for services and APIs; React for full stack and UI delivery.</>
         ),
         tags: [
-          { name: "iOS" },
-          { name: "Swift" },
-          { name: "Android" },
-          { name: "Kotlin" },
+          { name: "TypeScript" },
+          { name: "JavaScript" },
+          { name: "Node.js" },
+          { name: "Python" },
           { name: "Java" },
-          { name: "SwiftUI" },
         ],
         images: [
           {
             src: "/Ads/ad-5.jpg",
-            alt: "Project image",
-            width: 16,
-            height: 9,
-          },
-          {
-            src: "/Ads/ad-6.jpg",
-            alt: "Project image",
+            alt: "Development stack preview",
             width: 16,
             height: 9,
           },
         ],
       },
       {
-        title: "Cross-Platform Development",
+        title: "AI and machine learning",
         description: (
-          <>Shipping cross-platform products with shared codebases while preserving native-level user experiences.</>
+          <>LLM integration, retrieval, validation, and evaluation in production workflows.</>
         ),
         tags: [
-          { name: "React Native" },
-          { name: "Flutter" },
-          { name: "Dart" },
-          { name: "Xamarin" },
-          { name: "Ionic" },
-          { name: "Expo" },
-          { name: "TypeScript" },
-        ],
-        images: [
-          {
-            src: "/Ads/ad-7.jpg",
-            alt: "Project image",
-            width: 16,
-            height: 9,
-          },
-        ],
-      },
-      {
-        title: "Web Development",
-        description: (
-          <>Building fast, scalable web applications and internal platforms with modern frontend architecture and API-driven backends.</>
-        ),
-        tags: [
-          { name: "React" },
-          { name: "Next.js" },
-          { name: "Vue.js" },
-          { name: "Angular.js" },
-          { name: "Node.js" },
-          { name: "TypeScript" },
-          { name: "JavaScript" },
-          { name: "Tailwind CSS" },
-          { name: "GraphQL" },
-          { name: "REST APIs" },
-        ],
-        images: [
-          {
-            src: "/Ads/ad-10.jpg",
-            alt: "Web development project preview",
-            width: 16,
-            height: 9,
-          },
-        ],
-      },
-      {
-        title: "AI & Machine Learning",
-        description: (
-          <>Integrating LLMs and ML workflows into mobile products, from inference APIs to production-ready AI features.</>
-        ),
-        tags: [
-          { name: "OpenAI" },
-          { name: "TensorFlow" },
-          { name: "PyTorch" },
-          { name: "LangChain" },
-          { name: "RAG" },
-          { name: "Python" },
-          { name: "Scikit-learn" },
-          { name: "OpenCV" },
+          { name: "LLM Integration" },
+          { name: "Retrieval-augmented generation (RAG)" },
+          { name: "Structured output validation" },
+          { name: "PII detection and redaction" },
+          { name: "LLM evaluation tooling" },
         ],
         images: [
           {
             src: "/Ads/ad-8.jpg",
-            alt: "AI-powered mobile app preview",
+            alt: "AI platform preview",
             width: 16,
             height: 9,
           },
         ],
       },
       {
-        title: "Backend & APIs",
+        title: "Backend, APIs, and databases",
         description: (
-          <>Designing scalable backends and real-time API integrations to power mobile and AI-driven experiences.</>
+          <>RESTful design, SQL, messaging, and service-oriented architecture.</>
         ),
         tags: [
-          { name: "Node.js" },
-          { name: "Firebase" },
-          { name: "GraphQL" },
-          { name: "REST APIs" },
-          { name: "MongoDB" },
-          { name: "PostgreSQL" },
-          { name: "Redis" },
-          { name: "Socket.io" },
+          { name: "RESTful API design" },
+          { name: "SQL" },
+          { name: "AWS SQS" },
+          { name: "Event-driven architecture" },
+          { name: "Microservices" },
         ],
         images: [
           {
             src: "/Ads/ad-9.jpg",
-            alt: "Backend-integrated mobile app preview",
+            alt: "Backend architecture preview",
             width: 16,
             height: 9,
           },
         ],
       },
       {
-        title: "Testing, CI/CD & Cloud",
+        title: "Cloud, DevOps, and testing",
         description: (
-          <>Maintaining release quality with automated testing, deployment pipelines, and cloud-native infrastructure.</>
+          <>Shipping reliably with containers, orchestration, pipelines, and automated gates.</>
         ),
         tags: [
-          { name: "Jest" },
-          { name: "Detox" },
-          { name: "Appium" },
-          { name: "GitHub Actions" },
-          { name: "Fastlane" },
-          { name: "Docker" },
           { name: "AWS" },
-          { name: "Google Cloud" },
+          { name: "Docker" },
+          { name: "Kubernetes" },
+          { name: "CI/CD pipelines" },
+          { name: "GitHub Actions" },
         ],
         images: [
           {
             src: "/Ads/ad-1.jpg",
-            alt: "Mobile CI/CD and cloud workflow preview",
+            alt: "Cloud and CI/CD preview",
+            width: 16,
+            height: 9,
+          },
+        ],
+      },
+      {
+        title: "Strengths",
+        description: (
+          <>
+            Technical leadership and mentoring · Full stack platform design · Distributed systems observability ·
+            Agile delivery and cross-team influence · AI safety and compliance engineering · Clear technical
+            communication.
+          </>
+        ),
+        tags: [],
+        images: [
+          {
+            src: "/Ads/ad-6.jpg",
+            alt: "Collaboration and leadership preview",
             width: 16,
             height: 9,
           },
@@ -379,8 +341,8 @@ const about: About = {
 const blog: Blog = {
   path: "/blog",
   label: "Blog",
-  title: "Mobile & AI Engineering Insights",
-  description: `Practical lessons from building production mobile apps, AI features, and scalable backend systems.`,
+  title: "Software engineering notes",
+  description: `Notes on full stack development, distributed systems, cloud operations, and AI-integrated platforms.`,
 };
 
 const work: Work = {

@@ -188,16 +188,16 @@ const mailchimp: MailchimpConfig = {
 const schema: SchemaConfig = {
   logo: "",
   type: "Organization",
-  name: "Vuong Phi Hung",
+  name: "Kee Ray",
   description: home.description,
-  email: "onedream082498@gmail.com",
+  email: "ala.kee666@outlook.com",
 };
 
-// social links
+// social links (schema sameAs; replace placeholder URLs when you have public profiles)
 const sameAs: SameAsConfig = {
-  threads: "https://github.com/onedream0824",
-  linkedin: "https://t.me/UrDream0824",
-  discord: "https://wa.me/13053391578",
+  threads: `${baseURL}`,
+  linkedin: "https://www.linkedin.com/in/kee-ray-602b7a408/",
+  discord: `${baseURL}`,
 };
 
 // social sharing configuration for blog posts
